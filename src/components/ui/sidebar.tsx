@@ -1,20 +1,10 @@
 "use client";
-import { cn } from "@/lib/utils";
-import React, { useState, createContext, useContext } from "react";
-import { AnimatePresence, motion } from "motion/react";
 import { IconMenu2, IconX } from "@tabler/icons-react";
-
-interface Links {
-  label: string;
-  href?: string;
-  icon?: React.JSX.Element | React.ReactNode;
-}
-
-interface SidebarContextProps {
-  open: boolean;
-  setOpen: React.Dispatch<React.SetStateAction<boolean>>;
-  animate: boolean;
-}
+import { AnimatePresence, motion } from "motion/react";
+import type React from "react";
+import { createContext, useContext, useState } from "react";
+import { cn } from "@/lib/utils";
+import type { Links, SidebarContextProps } from "@/types/types";
 
 const SidebarContext = createContext<SidebarContextProps | undefined>(
   undefined,
@@ -85,22 +75,20 @@ export const DesktopSidebar = ({
 }: React.ComponentProps<typeof motion.div>) => {
   const { open, setOpen, animate } = useSidebar();
   return (
-    <>
-      <motion.div
-        className={cn(
-          "h-full px-4 py-4 hidden  md:flex md:flex-col bg-background w-[300px] shrink-0 z-50",
-          className,
-        )}
-        animate={{
-          width: animate ? (open ? "300px" : "60px") : "300px",
-        }}
-        onMouseEnter={() => setOpen(true)}
-        onMouseLeave={() => setOpen(false)}
-        {...props}
-      >
-        {children}
-      </motion.div>
-    </>
+    <motion.div
+      className={cn(
+        "h-full px-4 py-4 hidden md:flex md:flex-col bg-background w-[300px] shrink-0 z-50 border-r-2",
+        className,
+      )}
+      animate={{
+        width: animate ? (open ? "300px" : "61.5px") : "300px",
+      }}
+      onMouseEnter={() => setOpen(true)}
+      onMouseLeave={() => setOpen(false)}
+      {...props}
+    >
+      {children}
+    </motion.div>
   );
 };
 
@@ -111,46 +99,41 @@ export const MobileSidebar = ({
 }: React.ComponentProps<"div">) => {
   const { open, setOpen } = useSidebar();
   return (
-    <>
-      <div
-        className={cn(
-          "h-10 px-4 py-4 flex flex-row md:hidden items-center justify-between bg-background w-full border-b-2",
-        )}
-        {...props}
-      >
-        <div className="flex justify-end z-20 w-full">
-          <IconMenu2
-            className="text-foreground"
-            onClick={() => setOpen(!open)}
-          />
-        </div>
-        <AnimatePresence>
-          {open && (
-            <motion.div
-              initial={{ x: "-100%", opacity: 0 }}
-              animate={{ x: 0, opacity: 1 }}
-              exit={{ x: "-100%", opacity: 0 }}
-              transition={{
-                duration: 0.3,
-                ease: "easeInOut",
-              }}
-              className={cn(
-                "fixed h-full w-full inset-0 bg-zinc-50 dark:bg-zinc-900 p-10 z-[100] flex flex-col justify-between",
-                className,
-              )}
-            >
-              <div
-                className="absolute right-10 top-10 z-50 text-foreground"
-                onClick={() => setOpen(!open)}
-              >
-                <IconX />
-              </div>
-              {children}
-            </motion.div>
-          )}
-        </AnimatePresence>
+    <div
+      className={cn(
+        "h-10 px-4 py-4 flex flex-row md:hidden items-center justify-between bg-background w-full border-b-2 fixed z-50",
+      )}
+      {...props}
+    >
+      <div className="flex justify-end z-20 w-full">
+        <IconMenu2 className="text-foreground" onClick={() => setOpen(!open)} />
       </div>
-    </>
+      <AnimatePresence>
+        {open && (
+          <motion.div
+            initial={{ x: "-100%", opacity: 0 }}
+            animate={{ x: 0, opacity: 1 }}
+            exit={{ x: "-100%", opacity: 0 }}
+            transition={{
+              duration: 0.3,
+              ease: "easeInOut",
+            }}
+            className={cn(
+              "fixed h-full w-full inset-0 bg-background p-10 z-[100] flex flex-col justify-between",
+              className,
+            )}
+          >
+            <div
+              className="absolute right-10 top-10 z-50 text-foreground"
+              onClick={() => setOpen(!open)}
+            >
+              <IconX />
+            </div>
+            {children}
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
   );
 };
 
@@ -179,7 +162,7 @@ export const SidebarLink = ({
           display: animate ? (open ? "inline-block" : "none") : "inline-block",
           opacity: animate ? (open ? 1 : 0) : 1,
         }}
-        className="text-foreground text-sm group-hover/sidebar:translate-x-1 transition duration-150 whitespace-pre inline-block !p-0 !m-0 translate-y-0.5"
+        className="text-foreground text-sm lg:text-base group-hover/sidebar:translate-x-1 transition duration-150 whitespace-pre inline-block !p-0 !m-0 translate-y-0.5 font-josefin"
       >
         {link.label}
       </motion.span>

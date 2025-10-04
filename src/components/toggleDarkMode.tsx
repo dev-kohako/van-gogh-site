@@ -1,6 +1,5 @@
 "use client";
 
-import * as React from "react";
 import { Moon, Sun } from "lucide-react";
 import { useTheme } from "next-themes";
 
@@ -22,7 +21,7 @@ export function ModeToggle({ className }: { className?: string }) {
       size="icon"
       aria-label={isDark ? "Ativar modo claro" : "Ativar modo escuro"}
       className={cn(
-        "relative h-8 w-8 pb-1 cursor-pointer bg-background dark:bg-background",
+        "relative h-7 w-7 pb-1 cursor-pointer bg-background dark:bg-background z-[9999]",
         className,
       )}
       onClick={handleToggle}

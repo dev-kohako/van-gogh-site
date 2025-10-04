@@ -1,4 +1,4 @@
-import { SwiperPainting } from "@/types/types";
+import type { SwiperPainting } from "@/types/types";
 
 export const paintings: SwiperPainting[] = [
   {

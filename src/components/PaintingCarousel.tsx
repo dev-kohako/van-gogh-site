@@ -1,12 +1,12 @@
 "use client";
 
 import Image from "next/image";
-import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, EffectCoverflow } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
 
 import "swiper/css";
 import "swiper/css/effect-coverflow";
-import { PaintingCarouselProps } from "@/types/types";
+import type { PaintingCarouselProps } from "@/types/types";
 
 export function PaintingCarousel({ paintings }: PaintingCarouselProps) {
   return (
@@ -26,17 +26,20 @@ export function PaintingCarousel({ paintings }: PaintingCarouselProps) {
         slideShadows: true,
       }}
       modules={[EffectCoverflow, Autoplay]}
-      className="w-full max-w-lg md:max-w-7xl my-5 mask-x-from-90% mask-x-to-99% z-40"
+      className="w-[90vw] max-w-7xl my-5 mask-x-from-90% mask-x-to-97% z-40"
     >
       {paintings.map((painting, i) => (
-        <SwiperSlide key={i} className="flex justify-center items-center">
+        <SwiperSlide
+          key={crypto.randomUUID()}
+          className="flex justify-center items-center"
+        >
           <Image
             src={painting.src}
             alt={painting.alt ?? `Obra de arte ${i + 1}`}
             width={400}
             height={300}
-            sizes="(max-width: 768px) 50vw, 33vw"
-            className="w-full h-32 md:h-80 object-cover rounded-lg"
+            sizes=""
+            className="w-full h-40 sm:h-52 md:h-64 lg:h-80 xl:h-96 object-cover rounded-lg"
             priority={i < 2}
           />
         </SwiperSlide>
