@@ -13,7 +13,9 @@
       "color2": "#6484b6",
       "color3": "#1c3470",
       "color4": "#607894",
-      "color5": "#b7c494"
+      "color5": "#b7c494",
+      "width": 2560,
+      "height": 2027
     },
     {
       "id": "2",
@@ -28,7 +30,9 @@
       "color2": "#dcba6e",
       "color3": "#704024",
       "color4": "#a67c66",
-      "color5": "#c4cbb6"
+      "color5": "#c4cbb6",
+      "width": 1024,
+      "height": 1280
     },
     {
       "id": "3",
@@ -43,7 +47,9 @@
       "color2": "#9fbfda",
       "color3": "#0a4679",
       "color4": "#517796",
-      "color5": "#b4b985"
+      "color5": "#b4b985",
+      "width": 2560,
+      "height": 1984
     },
     {
       "id": "4",
@@ -58,7 +64,9 @@
       "color2": "#d9c691",
       "color3": "#ac7405",
       "color4": "#907770",
-      "color5": "#8ba1b9"
+      "color5": "#8ba1b9",
+      "width": 2560,
+      "height": 2002
     },
     {
       "id": "5",
@@ -73,7 +81,9 @@
       "color2": "#ede256",
       "color3": "#705a1a",
       "color4": "#a69767",
-      "color5": "#d4cfb2"
+      "color5": "#d4cfb2",
+      "width": 800,
+      "height": 1003
     },
     {
       "id": "6",
@@ -88,7 +98,9 @@
       "color2": "#f4ddaa",
       "color3": "#99462b",
       "color4": "#a99a60",
-      "color5": "#d7caa4"
+      "color5": "#d7caa4",
+      "width": 2356,
+      "height": 2861
     },
     {
       "id": "7",
@@ -103,7 +115,9 @@
       "color2": "#e7da71",
       "color3": "#69442d",
       "color4": "#ab9060",
-      "color5": "#b3c8ca"
+      "color5": "#b3c8ca",
+      "width": 2000,
+      "height": 1589
     },
     {
       "id": "8",
@@ -118,7 +132,9 @@
       "color2": "#e6d55d",
       "color3": "#9b7d09",
       "color4": "#557aa8",
-      "color5": "#93b6b1"
+      "color5": "#93b6b1",
+      "width": 3508,
+      "height": 1669
     },
     {
       "id": "9",
@@ -133,7 +149,9 @@
       "color2": "#eddc69",
       "color3": "#1c4e6b",
       "color4": "#a3964a",
-      "color5": "#b9bd8a"
+      "color5": "#b9bd8a",
+      "width": 2481,
+      "height": 3141
     },
     {
       "id": "10",
@@ -148,7 +166,9 @@
       "color2": "#f8e883",
       "color3": "#873a10",
       "color4": "#928c63",
-      "color5": "#d1d5b7"
+      "color5": "#d1d5b7",
+      "width": 819,
+      "height": 1008
     },
     {
       "id": "11",
@@ -163,7 +183,9 @@
       "color2": "#d6bd77",
       "color3": "#954912",
       "color4": "#9b8960",
-      "color5": "#d5c9ad"
+      "color5": "#d5c9ad",
+      "width": 1806,
+      "height": 2106
     },
     {
       "id": "12",
@@ -178,7 +200,9 @@
       "color2": "#ebe585",
       "color3": "#573811",
       "color4": "#a27550",
-      "color5": "#d2bf97"
+      "color5": "#d2bf97",
+      "width": 1280,
+      "height": 998
     },
     {
       "id": "13",
@@ -193,7 +217,9 @@
       "color2": "#f3be4f",
       "color3": "#684719",
       "color4": "#61949e",
-      "color5": "#a6c9d1"
+      "color5": "#a6c9d1",
+      "width": 4688,
+      "height": 3603
     },
     {
       "id": "14",
@@ -208,7 +234,9 @@
       "color2": "#eacf7f",
       "color3": "#932922",
       "color4": "#ac9671",
-      "color5": "#aba496"
+      "color5": "#aba496",
+      "width": 2147,
+      "height": 2428
     },
     {
       "id": "15",
@@ -223,7 +251,9 @@
       "color2": "#e4cd77",
       "color3": "#6c4109",
       "color4": "#8b6f6c",
-      "color5": "#a9979d"
+      "color5": "#a9979d",
+      "width": 2908,
+      "height": 2297
     },
     {
       "id": "16",
@@ -238,7 +268,9 @@
       "color2": "#dac086",
       "color3": "#04456e",
       "color4": "#af985b",
-      "color5": "#c1cd9b"
+      "color5": "#c1cd9b",
+      "width": 6917,
+      "height": 5366
     },
     {
       "id": "17",
@@ -253,7 +285,9 @@
       "color2": "#d0c379",
       "color3": "#586611",
       "color4": "#88966e",
-      "color5": "#a9a9c7"
+      "color5": "#a9a9c7",
+      "width": 1492,
+      "height": 1200
     },
     {
       "id": "18",
@@ -268,7 +302,9 @@
       "color2": "#a4d4b9",
       "color3": "#0f7f82",
       "color4": "#5fa0a3",
-      "color5": "#cdc6a6"
+      "color5": "#cdc6a6",
+      "width": 1600,
+      "height": 1261
     },
     {
       "id": "19",
@@ -283,7 +319,9 @@
       "color2": "#dcc68e",
       "color3": "#653c2a",
       "color4": "#557da2",
-      "color5": "#c4cd9a"
+      "color5": "#c4cd9a",
+      "width": 1024,
+      "height": 850
     },
     {
       "id": "20",
@@ -298,7 +336,9 @@
       "color2": "#eecf69",
       "color3": "#7d3e23",
       "color4": "#a8886b",
-      "color5": "#c8aa96"
+      "color5": "#c8aa96",
+      "width": 964,
+      "height": 1200
     },
     {
       "id": "21",
@@ -313,7 +353,9 @@
       "color2": "#89abcd",
       "color3": "#456789",
       "color4": "#abcfde",
-      "color5": "#234567"
+      "color5": "#234567",
+      "width": 900,
+      "height": 725
     },
     {
       "id": "22",
@@ -328,7 +370,9 @@
       "color2": "#e0c099",
       "color3": "#24446c",
       "color4": "#8b8260",
-      "color5": "#b5ac90"
+      "color5": "#b5ac90",
+      "width": 4500,
+      "height": 5335
     },
     {
       "id": "23",
@@ -343,7 +387,9 @@
       "color2": "#69889c",
       "color3": "#234567",
       "color4": "#89aabc",
-      "color5": "#a1bccd"
+      "color5": "#a1bccd",
+      "width": 800,
+      "height": 1033
     },
     {
       "id": "24",
@@ -358,7 +404,9 @@
       "color2": "#d6d4a2",
       "color3": "#74642c",
       "color4": "#6086a5",
-      "color5": "#c5cbb7"
+      "color5": "#c5cbb7",
+      "width": 4500,
+      "height": 3580
     },
     {
       "id": "25",
@@ -373,7 +421,9 @@
       "color2": "#d8c8a0",
       "color3": "#84620a",
       "color4": "#b1aa6b",
-      "color5": "#6d5a2b"
+      "color5": "#6d5a2b",
+      "width": 3000,
+      "height": 2368
     },
     {
       "id": "26",
@@ -388,7 +438,9 @@
       "color2": "#d8c0a0",
       "color3": "#133850",
       "color4": "#9d8b66",
-      "color5": "#c6b693"
+      "color5": "#c6b693",
+      "width": 600,
+      "height": 790
     },
     {
       "id": "27",
@@ -403,7 +455,9 @@
       "color2": "#e0c699",
       "color3": "#244f5c",
       "color4": "#a28c60",
-      "color5": "#755723"
+      "color5": "#755723",
+      "width": 1280,
+      "height": 1712
     },
     {
       "id": "28",
@@ -418,7 +472,9 @@
       "color2": "#847d78",
       "color3": "#38322f",
       "color4": "#a09794",
-      "color5": "#635d59"
+      "color5": "#635d59",
+      "width": 1200,
+      "height": 1581
     },
     {
       "id": "29",
@@ -433,7 +489,9 @@
       "color2": "#b58a7d",
       "color3": "#684237",
       "color4": "#c3a89a",
-      "color5": "#987663"
+      "color5": "#987663",
+      "width": 2024,
+      "height": 2490
     },
     {
       "id": "30",
@@ -448,7 +506,9 @@
       "color2": "#a2805f",
       "color3": "#573625",
       "color4": "#bda590",
-      "color5": "#8e725a"
+      "color5": "#8e725a",
+      "width": 4678,
+      "height": 6000
     },
     {
       "id": "31",
@@ -463,7 +523,9 @@
       "color2": "#7a8995",
       "color3": "#2b3641",
       "color4": "#90a0ab",
-      "color5": "#546772"
+      "color5": "#546772",
+      "width": 600,
+      "height": 477
     },
     {
       "id": "32",
@@ -478,7 +540,9 @@
       "color2": "#f2bf2a",
       "color3": "#603d13",
       "color4": "#d2aa49",
-      "color5": "#c3c2b8"
+      "color5": "#c3c2b8",
+      "width": 3349,
+      "height": 4226
     },
     {
       "id": "33",
@@ -493,7 +557,9 @@
       "color2": "#859bae",
       "color3": "#3a4b5d",
       "color4": "#a9bccd",
-      "color5": "#6f8397"
+      "color5": "#6f8397",
+      "width": 1280,
+      "height": 1164
     },
     {
       "id": "34",
@@ -508,7 +574,9 @@
       "color2": "#608f69",
       "color3": "#253c2e",
       "color4": "#8fa786",
-      "color5": "#5b7b60"
+      "color5": "#5b7b60",
+      "width": 956,
+      "height": 640
     },
     {
       "id": "35",
@@ -523,7 +591,9 @@
       "color2": "#858585",
       "color3": "#363636",
       "color4": "#a1a1a1",
-      "color5": "#626262"
+      "color5": "#626262",
+      "width": 1200,
+      "height": 1506
     },
     {
       "id": "36",
@@ -538,7 +608,9 @@
       "color2": "#e9e9e9",
       "color3": "#d2d2d2",
       "color4": "#f0f0f0",
-      "color5": "#bcbcbc"
+      "color5": "#bcbcbc",
+      "width": 2034,
+      "height": 3000
     },
     {
       "id": "37",
@@ -553,7 +625,9 @@
       "color2": "#847d78",
       "color3": "#38322f",
       "color4": "#a09794",
-      "color5": "#635d59"
+      "color5": "#635d59",
+      "width": 1280,
+      "height": 1037
     },
     {
       "id": "38",
@@ -568,14 +642,16 @@
       "color2": "#8f897b",
       "color3": "#4d4739",
       "color4": "#afa793",
-      "color5": "#786e5f"
+      "color5": "#786e5f",
+      "width": 1551,
+      "height": 2000
     },
     {
       "id": "39",
       "namePainting": "Os Comedores de Batata",
       "originalTittle": "De Aardappeleters",
       "datePainting": "Abril de 1885",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg/1280px-Van-willem-vincent-gogh-die-kartoffelesser-03850.jpg",
+      "imagePainting": "PAINT_os_comedores_de_batata.jpg",
       "style": "Realismo",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Van Gogh em Amsterdã, Países Baixos",
@@ -583,14 +659,16 @@
       "color2": "#8a7968",
       "color3": "#3d352d",
       "color4": "#a68f5e",
-      "color5": "#c4b79d"
+      "color5": "#c4b79d",
+      "width": 1280,
+      "height": 909
     },
     {
       "id": "40",
       "namePainting": "Caveira de um Esqueleto com Cigarro Aceso",
       "originalTittle": "Kop van een skelet met brandende sigaret",
       "datePainting": "Inverno de 1885–86",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg/1024px-Vincent_van_Gogh_-_Head_of_a_skeleton_with_a_burning_cigarette_-_Google_Art_Project.jpg",
+      "imagePainting": "PAINT_caveira_com_cigarro_aceso.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Van Gogh em Amsterdã, Países Baixos",
@@ -598,14 +676,16 @@
       "color2": "#8e7b60",
       "color3": "#dcd2b8",
       "color4": "#605342",
-      "color5": "#c0a98f"
+      "color5": "#c0a98f",
+      "width": 800,
+      "height": 1060
     },
     {
       "id": "41",
       "namePainting": "O Semeador (após Millet)",
       "originalTittle": "De zaaier (naar Millet)",
-      "datePainting": "Fevereiro de 1888",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Van_Gogh_-_Der_S%C3%A4mann_%28nach_Millet%29.jpeg/1024px-Van_Gogh_-_Der_S%C3%A4mann_%28nach_Millet%29.jpeg",
+      "datePainting": "Abril de 1881",
+      "imagePainting": "PAINT_o_semeador_apos_millet.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Kröller-Müller em Otterlo, Países Baixos",
@@ -613,14 +693,16 @@
       "color2": "#a1b6c7",
       "color3": "#8d6f4f",
       "color4": "#647b59",
-      "color5": "#d7d8d2"
+      "color5": "#d7d8d2",
+      "width": 611,
+      "height": 800
     },
     {
       "id": "42",
       "namePainting": "A Sesta (após Millet)",
       "originalTittle": "La Méridienne (d'après Millet)",
       "datePainting": "Janeiro de 1890",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_La_m%C3%A9ridienne_%28d%27apr%C3%A8s_Millet%29.jpg/1280px-Vincent_van_Gogh_-_La_m%C3%A9ridienne_%28d%27apr%C3%A8s_Millet%29.jpg",
+      "imagePainting": "PAINT_a_sesta_apos_millet.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Musée d'Orsay em Paris, França",
@@ -628,14 +710,16 @@
       "color2": "#75a3c2",
       "color3": "#2b4e87",
       "color4": "#e7dcb0",
-      "color5": "#c58b3c"
+      "color5": "#c58b3c",
+      "width": 850,
+      "height": 666
     },
     {
       "id": "43",
       "namePainting": "Velho Triste ('Às Portas da Eternidade')",
       "originalTittle": "Sorrowing Old Man ('At Eternity's Gate')",
       "datePainting": "Maio de 1890",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vincent_van_Gogh_-_Sorrowing_Old_Man_%28%27At_Eternity%27s_Gate%27%29_-_Google_Art_Project.jpg/1024px-Vincent_van_Gogh_-_Sorrowing_Old_Man_%28%27At_Eternity%27s_Gate%27%29_-_Google_Art_Project.jpg",
+      "imagePainting": "PAINT_velho_triste_as_portas_da_eternidade.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Kröller-Müller em Otterlo, Países Baixos",
@@ -643,14 +727,16 @@
       "color2": "#8e6345",
       "color3": "#d1a862",
       "color4": "#e3e0d4",
-      "color5": "#a5a3a2"
+      "color5": "#a5a3a2",
+      "width": 800,
+      "height": 1013
     },
     {
       "id": "44",
       "namePainting": "L'Arlésienne: Madame Ginoux",
       "originalTittle": "L'Arlésienne: Madame Ginoux",
       "datePainting": "Novembro de 1888",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vincent_van_Gogh_-_L%27Arl%C3%A9sienne_%28Madame_Ginoux%29_-_Google_Art_Project.jpg/1024px-Vincent_van_Gogh_-_L%27Arl%C3%A9sienne_%28Madame_Ginoux%29_-_Google_Art_Project.jpg",
+      "imagePainting": "PAINTS_larlesienne_madame_ginoux.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Metropolitano de Arte em Nova Iorque, EUA",
@@ -658,14 +744,16 @@
       "color2": "#2b2924",
       "color3": "#2b483e",
       "color4": "#e0d8c6",
-      "color5": "#8e6345"
+      "color5": "#8e6345",
+      "width": 800,
+      "height": 1007
     },
     {
       "id": "45",
       "namePainting": "Campo de Trigo com Ceifador",
       "originalTittle": "Wheatfield with a Reaper",
       "datePainting": "Setembro de 1889",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Van_Gogh_-_Weizenfeld_mit_M%C3%A4her_und_Sonne.jpeg/1280px-Van_Gogh_-_Weizenfeld_mit_M%C3%A4her_und_Sonne.jpeg",
+      "imagePainting": "PAINT_campo_de_trigo_com_ceifador.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Kröller-Müller em Otterlo, Países Baixos",
@@ -673,14 +761,16 @@
       "color2": "#b6c37c",
       "color3": "#867da8",
       "color4": "#c4d3de",
-      "color5": "#384e3a"
+      "color5": "#384e3a",
+      "width": 800,
+      "height": 633
     },
     {
       "id": "46",
       "namePainting": "A Ronda dos Prisioneiros (após Doré)",
       "originalTittle": "De gevangenenronde (naar Doré)",
       "datePainting": "Fevereiro de 1890",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Vincent_van_Gogh_-_The_Prisoners%27_Round.jpg/1024px-Vincent_van_Gogh_-_The_Prisoners%27_Round.jpg",
+      "imagePainting": "PAINT_rodada_de_prisioneiros_depois_de_gustave_dore.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Pushkin em Moscou, Rússia",
@@ -688,14 +778,16 @@
       "color2": "#65805d",
       "color3": "#8b6c4e",
       "color4": "#a7a398",
-      "color5": "#c3d0d8"
+      "color5": "#c3d0d8",
+      "width": 800,
+      "height": 1019
     },
     {
       "id": "47",
       "namePainting": "O Bom Samaritano (após Delacroix)",
       "originalTittle": "Le bon Samaritain (d'après Delacroix)",
       "datePainting": "Maio de 1890",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Good_Samaritan_%28after_Delacroix%29.jpg/1024px-The_Good_Samaritan_%28after_Delacroix%29.jpg",
+      "imagePainting": "PAINT_o_bom_samaritano_apos_delacroix.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Kröller-Müller em Otterlo, Países Baixos",
@@ -703,14 +795,16 @@
       "color2": "#6b845d",
       "color3": "#8e6345",
       "color4": "#d18c4c",
-      "color5": "#1e3a59"
+      "color5": "#1e3a59",
+      "width": 846,
+      "height": 1024
     },
     {
       "id": "48",
       "namePainting": "O Jardim do Poeta",
       "originalTittle": "Le Jardin du Poète",
-      "datePainting": "Outubro de 1888",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Van_Gogh_-_Der_Dichtergarten_mit_Paar.jpeg/1280px-Van_Gogh_-_Der_Dichtergarten_mit_Paar.jpeg",
+      "datePainting": "Setembro de 1888",
+      "imagePainting": "PAINT_o_jardim_do_poeta.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Coleção particular",
@@ -718,14 +812,16 @@
       "color2": "#f2d65d",
       "color3": "#75a3c2",
       "color4": "#a6b88b",
-      "color5": "#253c2e"
+      "color5": "#253c2e",
+      "width": 960,
+      "height": 762
     },
     {
       "id": "49",
       "namePainting": "Memória do Jardim em Etten",
       "originalTittle": "Souvenir du Jardin à Etten",
       "datePainting": "Novembro de 1888",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vincent_van_Gogh_-_Memory_of_the_Garden_at_Etten_%28Ladies_of_Arles%29_-_Google_Art_Project.jpg/1280px-Vincent_van_Gogh_-_Memory_of_the_Garden_at_Etten_%28Ladies_of_Arles%29_-_Google_Art_Project.jpg",
+      "imagePainting": "PAINT_memória_do_jardim_em_etten.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Hermitage em São Petersburgo, Rússia",
@@ -733,14 +829,16 @@
       "color2": "#f2d65d",
       "color3": "#75a3c2",
       "color4": "#c04b4b",
-      "color5": "#e3e0d4"
+      "color5": "#e3e0d4",
+      "width": 2021,
+      "height": 1583
     },
     {
       "id": "50",
       "namePainting": "Raízes de Árvores",
       "originalTittle": "Racines d'arbres",
       "datePainting": "Julho de 1890",
-      "imagePainting": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tree_Roots%2C_by_Vincent_van_Gogh.jpg/1280px-Tree_Roots%2C_by_Vincent_van_Gogh.jpg",
+      "imagePainting": "PAINT_raizes_de_arvores.jpg",
       "style": "Pós-Impressionista",
       "materials": "tinta a óleo sobre tela",
       "local": "Museu Van Gogh em Amsterdã, Países Baixos",
@@ -748,7 +846,853 @@
       "color2": "#6b845d",
       "color3": "#8e6345",
       "color4": "#d1a862",
-      "color5": "#a6b8c8"
+      "color5": "#a6b8c8",
+      "width": 4000,
+      "height": 3000
+    },
+    {
+      "id": "51",
+      "namePainting": "Ciprestes",
+      "originalTittle": "Les Cyprès",
+      "datePainting": "Junho de 1889",
+      "imagePainting": "PAINT_ciprestes.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Metropolitano de Arte, Nova Iorque, EUA",
+      "color1": "#0e4a3b",
+      "color2": "#6fa55c",
+      "color3": "#d5c75b",
+      "color4": "#88b3d0",
+      "color5": "#f0e9b6",
+      "width": 800,
+      "height": 1009
+    },
+    {
+      "id": "52",
+      "namePainting": "Estrada com Cipreste e Estrela",
+      "originalTittle": "Route avec cyprès et étoile",
+      "datePainting": "Maio de 1890",
+      "imagePainting": "PAINT_estrada_com_cipreste_e_estrela.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Kröller-Müller, Otterlo, Países Baixos",
+      "color1": "#0a3d62",
+      "color2": "#f6e58d",
+      "color3": "#4a694d",
+      "color4": "#b8860b",
+      "color5": "#dfe4ea",
+      "width": 2840,
+      "height": 3579
+    },
+    {
+      "id": "53",
+      "namePainting": "A Cadeira de Gauguin",
+      "originalTittle": "La Chaise de Gauguin",
+      "datePainting": "Novembro de 1888",
+      "imagePainting": "PAINT_a_cadeira_de_gauguin.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#b04b3a",
+      "color2": "#426b52",
+      "color3": "#d4a355",
+      "color4": "#8e633e",
+      "color5": "#e0d6b9",
+      "width": 640,
+      "height": 800
+    },
+    {
+      "id": "54",
+      "namePainting": "Les Alyscamps",
+      "originalTittle": "Les Alyscamps",
+      "datePainting": "Outubro de 1888",
+      "imagePainting": "PAINT_les_alyscamps.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Coleção particular",
+      "color1": "#d28a2a",
+      "color2": "#6a3e1a",
+      "color3": "#f5d56f",
+      "color4": "#4e6a71",
+      "color5": "#b8a06e",
+      "width": 1598,
+      "height": 2000
+    },
+    {
+      "id": "55",
+      "namePainting": "La Berceuse (Augustine Roulin)",
+      "originalTittle": "La Berceuse",
+      "datePainting": "Janeiro de 1889",
+      "imagePainting": "PAINT_la_berceuse_augustine_roulin.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Kröller-Müller, Otterlo, Países Baixos",
+      "color1": "#2d6a4f",
+      "color2": "#d4503b",
+      "color3": "#f7d363",
+      "color4": "#954535",
+      "color5": "#e0c098",
+      "width": 2374,
+      "height": 3000
+    },
+    {
+      "id": "56",
+      "namePainting": "Dois Caranguejos",
+      "originalTittle": "Twee krabben",
+      "datePainting": "Janeiro de 1889",
+      "imagePainting": "PAINT_dois_caranguejos.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "National Gallery, Londres, Reino Unido",
+      "color1": "#228b22",
+      "color2": "#ff6347",
+      "color3": "#b59b6c",
+      "color4": "#6b8e23",
+      "color5": "#f0e68c",
+      "width": 6000,
+      "height": 4226
+    },
+    {
+      "id": "57",
+      "namePainting": "Retrato de Père Tanguy",
+      "originalTittle": "Portrait du Père Tanguy",
+      "datePainting": "Inverno de 1887-88",
+      "imagePainting": "PAINT_retrato_de_per_tanguy.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Musée Rodin, Paris, França",
+      "color1": "#d95f30",
+      "color2": "#2a6f97",
+      "color3": "#f2b705",
+      "color4": "#014f86",
+      "color5": "#e7d8c0",
+      "width": 800,
+      "height": 1008
+    },
+    {
+      "id": "58",
+      "namePainting": "A Pietà (após Delacroix)",
+      "originalTittle": "La Pietà (d'après Delacroix)",
+      "datePainting": "Setembro de 1889",
+      "imagePainting": "PAINT_a_pietao_apos_delacroix.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#0b4f6c",
+      "color2": "#ffc857",
+      "color3": "#623d21",
+      "color4": "#9d8469",
+      "color5": "#d9b48f",
+      "width": 654,
+      "height": 800
+    },
+    {
+      "id": "59",
+      "namePainting": "A Ressurreição de Lázaro (após Rembrandt)",
+      "originalTittle": "De opwekking van Lazarus (naar Rembrandt)",
+      "datePainting": "Maio de 1890",
+      "imagePainting": "PAINT_a_ressurreicao_de_lazaro_apos_rembrandt.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre papel",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#f4a261",
+      "color2": "#2a9d8f",
+      "color3": "#e9c46a",
+      "color4": "#264653",
+      "color5": "#e76f51",
+      "width": 800,
+      "height": 612
+    },
+    {
+      "id": "60",
+      "namePainting": "Agostina Segatori sentada no Café du Tambourin",
+      "originalTittle": "Agostina Segatori assise au café du Tambourin",
+      "datePainting": "Março de 1887",
+      "imagePainting": "PAINT_agostina_segatori_sentada_no_cafe_do_tamborim.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#9e2a2b",
+      "color2": "#540b0e",
+      "color3": "#e09f3e",
+      "color4": "#c6ad8f",
+      "color5": "#7f5539",
+      "width": 665,
+      "height": 800
+    },
+    {
+      "id": "61",
+      "namePainting": "Barcos de Pesca na Praia de Saintes-Maries",
+      "originalTittle": "Barques de pêche sur la plage des Saintes-Maries",
+      "datePainting": "Junho de 1888",
+      "imagePainting": "PAINT_barcos_de_pesca_na_praia_de_saintes_maries.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#0077b6",
+      "color2": "#fdf0d5",
+      "color3": "#c1121f",
+      "color4": "#8ecae6",
+      "color5": "#f7a072",
+      "width": 800,
+      "height": 644
+    },
+    {
+      "id": "62",
+      "namePainting": "O Zuavo",
+      "originalTittle": "Le Zouave",
+      "datePainting": "Junho de 1888",
+      "imagePainting": "PAINT_o_zuavo.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#d62828",
+      "color2": "#003049",
+      "color3": "#f77f00",
+      "color4": "#fcbf49",
+      "color5": "#eae2b7",
+      "width": 670,
+      "height": 800
+    },
+    {
+      "id": "63",
+      "namePainting": "Quinta na Provença",
+      "originalTittle": "Mas en Provence",
+      "datePainting": "Junho de 1888",
+      "imagePainting": "PAINT_quinta_na_provenca.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Galeria Nacional de Arte, Washington D.C., EUA",
+      "color1": "#ffcb77",
+      "color2": "#4a7c59",
+      "color3": "#1e4d2b",
+      "color4": "#89a894",
+      "color5": "#f4e2d8",
+      "width": 1000,
+      "height": 753
+    },
+    {
+      "id": "64",
+      "namePainting": "Ala no Hospital em Arles",
+      "originalTittle": "Salle de l'hôpital à Arles",
+      "datePainting": "Abril de 1889",
+      "imagePainting": "PAINT_ala_no_hospital_em_arles.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Coleção Oskar Reinhart 'Am Römerholz', Winterthur, Suíça",
+      "color1": "#c5443a",
+      "color2": "#dfd76b",
+      "color3": "#75884b",
+      "color4": "#ab9781",
+      "color5": "#e7e0cc",
+      "width": 1223,
+      "height": 950
+    },
+    {
+      "id": "65",
+      "namePainting": "Chalés com Telhados de Palha",
+      "originalTittle": "Chaumes de Cordeville à Auvers-sur-Oise",
+      "datePainting": "Junho de 1890",
+      "imagePainting": "PAINT_chales_com_telhados_de_palha.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Musée d'Orsay, Paris, França",
+      "color1": "#1d3557",
+      "color2": "#457b9d",
+      "color3": "#a8dadc",
+      "color4": "#f1faee",
+      "color5": "#e63946",
+      "width": 5067,
+      "height": 4007
+    },
+    {
+      "id": "66",
+      "namePainting": "Camponesa Cavando",
+      "originalTittle": "Paysanne bêchant",
+      "datePainting": "Julho de 1885",
+      "imagePainting": "PAINT_camponesa_cavando.jpg",
+      "style": "Realismo",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Galeria Nacional da Escócia, Edimburgo, Reino Unido",
+      "color1": "#3b3934",
+      "color2": "#766c5c",
+      "color3": "#a3957e",
+      "color4": "#585145",
+      "color5": "#c5baa9",
+      "width": 800,
+      "height": 1003
+    },
+    {
+      "id": "67",
+      "namePainting": "Natureza-morta: Vaso com Doze Girassóis",
+      "originalTittle": "Nature morte: Vase aux douze tournesols",
+      "datePainting": "Agosto de 1888",
+      "imagePainting": "PAINT_natureza_morta_vaso_com_doze_girassois.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Neue Pinakothek, Munique, Alemanha",
+      "color1": "#ffbe0b",
+      "color2": "#fb5607",
+      "color3": "#8338ec",
+      "color4": "#3a86ff",
+      "color5": "#ff006e",
+      "width": 717,
+      "height": 900
+    },
+    {
+      "id": "68",
+      "namePainting": "O Vinhedo Verde",
+      "originalTittle": "Le Vignoble vert",
+      "datePainting": "Setembro de 1888",
+      "imagePainting": "PAINT_o_vinhedo_verde.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Kröller-Müller, Otterlo, Países Baixos",
+      "color1": "#3d405b",
+      "color2": "#81b29a",
+      "color3": "#f2cc8f",
+      "color4": "#e07a5f",
+      "color5": "#f4f1de"
+    },
+    {
+      "id": "69",
+      "namePainting": "Lírios Roxos",
+      "originalTittle": "Lilas",
+      "datePainting": "Maio de 1889",
+      "imagePainting": "PAINT_lirios_roxos.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Hermitage, São Petersburgo, Rússia",
+      "color1": "#588157",
+      "color2": "#a3b18a",
+      "color3": "#dad7cd",
+      "color4": "#3a5a40",
+      "color5": "#344e41",
+      "width": 7560,
+      "height": 5939
+    },
+    {
+      "id": "70",
+      "namePainting": "O Pomar Rosa",
+      "originalTittle": "Le verger rose",
+      "datePainting": "Abril de 1888",
+      "imagePainting": "PAINT_o_pomar_rosa.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#4895ef",
+      "color2": "#f7b801",
+      "color3": "#7209b7",
+      "color4": "#b5179e",
+      "color5": "#fcf4ff",
+      "width": 800,
+      "height": 635
+    },
+    {
+      "id": "71",
+      "namePainting": "Vista do Mar em Saintes-Maries",
+      "originalTittle": "Vue de la mer aux Saintes-Maries",
+      "datePainting": "Junho de 1888",
+      "imagePainting": "PAINT_vista_do_mar_em_saintes_maries.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#023e8a",
+      "color2": "#0096c7",
+      "color3": "#90e0ef",
+      "color4": "#caf0f8",
+      "color5": "#ffffff",
+      "width": 800,
+      "height": 623
+    },
+    {
+      "id": "72",
+      "namePainting": "A Italiana",
+      "originalTittle": "L'Italienne",
+      "datePainting": "Novembro de 1887",
+      "imagePainting": "PAINT_a_italiana.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Musée d'Orsay, Paris, França",
+      "color1": "#ffd60a",
+      "color2": "#d00000",
+      "color3": "#003566",
+      "color4": "#ffc300",
+      "color5": "#e6ccb2",
+      "width": 3922,
+      "height": 5312
+    },
+    {
+      "id": "73",
+      "namePainting": "Boulevard de Clichy",
+      "originalTittle": "Boulevard de Clichy",
+      "datePainting": "Março de 1887",
+      "imagePainting": "PAINT_boulevard_de_clichy.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#8d99ae",
+      "color2": "#edf2f4",
+      "color3": "#ef233c",
+      "color4": "#d90429",
+      "color5": "#2b2d42",
+      "width": 800,
+      "height": 663
+    },
+    {
+      "id": "74",
+      "namePainting": "Jardim Florido com Caminho",
+      "originalTittle": "Jardin fleuri avec sentier",
+      "datePainting": "Abril de 1888",
+      "imagePainting": "PAINT_jardim_florado_com_caminho.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Gemeentemuseum Den Haag, Haia, Países Baixos",
+      "color1": "#386641",
+      "color2": "#6a994e",
+      "color3": "#a7c957",
+      "color4": "#f2e8cf",
+      "color5": "#bc4749",
+      "width": 1000,
+      "height": 784
+    },
+    {
+      "id": "75",
+      "namePainting": "A Ponte de Langlois com Lavadeiras",
+      "originalTittle": "Le Pont de Langlois avec des lavandières",
+      "datePainting": "Março de 1888",
+      "imagePainting": "PAINT_a_ponte_de_langlois_com_lavadeiras.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Kröller-Müller, Otterlo, Países Baixos",
+      "color1": "#fca311",
+      "color2": "#14213d",
+      "color3": "#e5e5e5",
+      "color4": "#ffffff",
+      "color5": "#6b705c",
+      "width": 2000,
+      "height": 1662
+    },
+    {
+      "id": "76",
+      "namePainting": "O Pomar em Flor",
+      "originalTittle": "Le Verger en fleur",
+      "datePainting": "Abril de 1888",
+      "imagePainting": "PAINT_o_pomar_em_flor.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Metropolitano de Arte, Nova Iorque, EUA",
+      "color1": "#f94144",
+      "color2": "#f3722c",
+      "color3": "#f8961e",
+      "color4": "#f9c74f",
+      "color5": "#90be6d",
+      "width": 2789,
+      "height": 3722
+    },
+    {
+      "id": "77",
+      "namePainting": "A Colheita",
+      "originalTittle": "La Moisson",
+      "datePainting": "Junho de 1888",
+      "imagePainting": "PAINT_a_colheita.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#00b4d8",
+      "color2": "#ffc8dd",
+      "color3": "#ffafcc",
+      "color4": "#bde0fe",
+      "color5": "#a2d2ff",
+      "width": 800,
+      "height": 637
+    },
+    {
+      "id": "78",
+      "namePainting": "O Velho Moinho",
+      "originalTittle": "Le Vieux Moulin",
+      "datePainting": "Setembro de 1888",
+      "imagePainting": "PAINT_o_velho_moinho.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Galeria de Arte Albright-Knox, Buffalo, EUA",
+      "color1": "#2ec4b6",
+      "color2": "#e71d36",
+      "color3": "#ff9f1c",
+      "color4": "#fdfffc",
+      "color5": "#011627",
+      "width": 3670,
+      "height": 4443
+    },
+    {
+      "id": "79",
+      "namePainting": "O Jardim do Poeta (Jardim com Casal)",
+      "originalTittle": "Le Jardin du Poète (Jardin avec un couple)",
+      "datePainting": "Setembro de 1888",
+      "imagePainting": "PAINT_o_jardim_do_poeta_jardim_com_casal.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Art Institute of Chicago, Chicago, EUA",
+      "color1": "#3b5a3e",
+      "color2": "#f2d65d",
+      "color3": "#75a3c2",
+      "color4": "#a6b88b",
+      "color5": "#253c2e",
+      "width": 1000,
+      "height": 804
+    },
+    {
+      "id": "80",
+      "namePainting": "O Passeio ao Luar",
+      "originalTittle": "La Promenade au clair de lune",
+      "datePainting": "Outubro de 1889",
+      "imagePainting": "PAINT_o_passeio_ao_luar.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu de Arte de São Paulo (MASP), São Paulo, Brasil",
+      "color1": "#f9c74f",
+      "color2": "#90be6d",
+      "color3": "#43aa8b",
+      "color4": "#4d908e",
+      "color5": "#577590",
+      "width": 886,
+      "height": 1000
+    },
+    {
+      "id": "81",
+      "namePainting": "Árvores no Jardim do Asilo",
+      "originalTittle": "Arbres dans le jardin de l'asile",
+      "datePainting": "Outubro de 1889",
+      "imagePainting": "PAINT_arvores_no_jardim_do_asilo.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Coleção particular",
+      "color1": "#006400",
+      "color2": "#ffd700",
+      "color3": "#ff4500",
+      "color4": "#4682b4",
+      "color5": "#deb887",
+      "width": 3059,
+      "height": 3832
+    },
+    {
+      "id": "82",
+      "namePainting": "Primeiros Passos (após Millet)",
+      "originalTittle": "Premiers Pas (d'après Millet)",
+      "datePainting": "Janeiro de 1890",
+      "imagePainting": "PAINT_primeiros_passos_apos_millet.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Metropolitano de Arte, Nova Iorque, EUA",
+      "color1": "#2d6a4f",
+      "color2": "#74c69d",
+      "color3": "#d88c9a",
+      "color4": "#f2d3ab",
+      "color5": "#9a8c98",
+      "width": 1859,
+      "height": 1480
+    },
+    {
+      "id": "83",
+      "namePainting": "Mulheres Bretãs",
+      "originalTittle": "Les Bretonnes",
+      "datePainting": "Novembro de 1888",
+      "imagePainting": "PAINT_mulheres_bretas.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "Aquarela sobre papel",
+      "local": "Galleria d'Arte Moderna, Milão, Itália",
+      "color1": "#4c1a25",
+      "color2": "#a44a3f",
+      "color3": "#d4e09b",
+      "color4": "#f6f7eb",
+      "color5": "#8a6651",
+      "width": 1200,
+      "height": 938
+    },
+    {
+      "id": "84",
+      "namePainting": "Retrato de Patience Escalier",
+      "originalTittle": "Portrait de Patience Escalier",
+      "datePainting": "Agosto de 1888",
+      "imagePainting": "PAINT_retrato_de_patience_escalier.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Coleção Niarchos (Coleção particular)",
+      "color1": "#f7d74f",
+      "color2": "#a34a28",
+      "color3": "#5a7d6e",
+      "color4": "#5a3a29",
+      "color5": "#e0b89a"
+    },
+    {
+      "id": "85",
+      "namePainting": "O Bebedor de Absinto",
+      "originalTittle": "Le Buveur d'absinthe",
+      "datePainting": "Março de 1887",
+      "imagePainting": "PAINT_o_bebedor_de_absinto.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#8b0000",
+      "color2": "#000000",
+      "color3": "#cd5c5c",
+      "color4": "#f0e68c",
+      "color5": "#a52a2a",
+      "width": 600,
+      "height": 852
+    },
+    {
+      "id": "86",
+      "namePainting": "A Vinha em Flor",
+      "originalTittle": "La Vigne en fleur",
+      "datePainting": "Abril de 1888",
+      "imagePainting": "PAINT_a_vinha_em_flor.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Coleção particular",
+      "color1": "#dda15e",
+      "color2": "#bc6c25",
+      "color3": "#606c38",
+      "color4": "#283618",
+      "color5": "#fefae0",
+      "width": 3072,
+      "height": 2409
+    },
+    {
+      "id": "87",
+      "namePainting": "O Pescador",
+      "originalTittle": "Le Pêcheur",
+      "datePainting": "Agosto de 1888",
+      "imagePainting": "PAINT_o_pescador.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu de Belas Artes, Boston, EUA",
+      "color1": "#001219",
+      "color2": "#005f73",
+      "color3": "#0a9396",
+      "color4": "#94d2bd",
+      "color5": "#e9d8a6",
+      "width": 1749,
+      "height": 2728
+    },
+    {
+      "id": "88",
+      "namePainting": "Os Descarregadores em Arles",
+      "originalTittle": "Les Déchargeurs à Arles",
+      "datePainting": "Agosto de 1888",
+      "imagePainting": "PAINT_os_descarregadores_em_arles.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Thyssen-Bornemisza, Madrid, Espanha",
+      "color1": "#1a535c",
+      "color2": "#4ecdc4",
+      "color3": "#ff6b6b",
+      "color4": "#ffe66d",
+      "color5": "#f7fff7",
+      "width": 2000,
+      "height": 1666
+    },
+    {
+      "id": "89",
+      "namePainting": "Natureza-morta com Arenques",
+      "originalTittle": "Nature morte aux harengs",
+      "datePainting": "Janeiro de 1886",
+      "imagePainting": "PAINT_natureza_morta_com_arenques.jpg",
+      "style": "Realismo",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Rijksmuseum, Amsterdã, Países Baixos",
+      "color1": "#5e503f",
+      "color2": "#c6ac8f",
+      "color3": "#2a2a2a",
+      "color4": "#a48a6f",
+      "color5": "#816f59"
+    },
+    {
+      "id": "90",
+      "namePainting": "O Restaurante de la Sirène em Asnières",
+      "originalTittle": "Le Restaurant de la Sirène à Asnières",
+      "datePainting": "Maio de 1887",
+      "imagePainting": "PAINT_o_restaurante_de_la_sirene_em_asnieres.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Musée d'Orsay, Paris, França",
+      "color1": "#fec89a",
+      "color2": "#f08080",
+      "color3": "#b5838d",
+      "color4": "#6d6875",
+      "color5": "#e5e5e5",
+      "width": 850,
+      "height": 705
+    },
+    {
+      "id": "91",
+      "namePainting": "Retrato do Carteiro Joseph Roulin",
+      "originalTittle": "Portrait du facteur Joseph Roulin",
+      "datePainting": "Agosto de 1888",
+      "imagePainting": "PAINT_retrato_do_carteiro_joseph_roulin.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu de Belas Artes, Boston, EUA",
+      "color1": "#003f88",
+      "color2": "#fdc500",
+      "color3": "#9d5c0d",
+      "color4": "#e8e5d6",
+      "color5": "#4a7631",
+      "width": 1787,
+      "height": 2233
+    },
+    {
+      "id": "92",
+      "namePainting": "Paisagem com Neve",
+      "originalTittle": "Paysage enneigé",
+      "datePainting": "Fevereiro de 1888",
+      "imagePainting": "PAINT_paisagem_com_neve.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Solomon R. Guggenheim, Nova Iorque, EUA",
+      "color1": "#d7d7d7",
+      "color2": "#ffffff",
+      "color3": "#a0522d",
+      "color4": "#808080",
+      "color5": "#2f4f4f",
+      "width": 1280,
+      "height": 1042
+    },
+    {
+      "id": "93",
+      "namePainting": "O Pátio do Hospital em Arles",
+      "originalTittle": "La Cour de l'hôpital à Arles",
+      "datePainting": "Abril de 1889",
+      "imagePainting": "PAINT_o_patio_do_hospital_em_arles.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Coleção Oskar Reinhart 'Am Römerholz', Winterthur, Suíça",
+      "color1": "#03045e",
+      "color2": "#0077b6",
+      "color3": "#ffc300",
+      "color4": "#e5383b",
+      "color5": "#f7f7f2",
+      "width": 2931,
+      "height": 2363
+    },
+    {
+      "id": "94",
+      "namePainting": "O Dr. Paul Gachet",
+      "originalTittle": "Le Dr Paul Gachet",
+      "datePainting": "Junho de 1890",
+      "imagePainting": "PAINT_o_dr_paul_gachet.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Musée d'Orsay, Paris, França",
+      "color1": "#d00000",
+      "color2": "#3a0ca3",
+      "color3": "#e85d04",
+      "color4": "#b5a68c",
+      "color5": "#292a2d",
+      "width": 839,
+      "height": 1000
+    },
+    {
+      "id": "95",
+      "namePainting": "O Poeta Eugène Boch",
+      "originalTittle": "Le Poète Eugène Boch",
+      "datePainting": "Setembro de 1888",
+      "imagePainting": "PAINT_o_poeta_eugene_boch.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Musée d'Orsay, Paris, França",
+      "color1": "#003566",
+      "color2": "#ffc300",
+      "color3": "#ffd60a",
+      "color4": "#4f772d",
+      "color5": "#c28e46",
+      "width": 641,
+      "height": 850
+    },
+    {
+      "id": "96",
+      "namePainting": "Um Par de Sapatos",
+      "originalTittle": "Une paire de souliers",
+      "datePainting": "Agosto de 1886",
+      "imagePainting": "PAINT_um_par_de_sapatos.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#4a2c2a",
+      "color2": "#8e6a4b",
+      "color3": "#2d1e18",
+      "color4": "#c2a382",
+      "color5": "#6a4f38",
+      "width": 1204,
+      "height": 1000
+    },
+    {
+      "id": "97",
+      "namePainting": "Interior de um Restaurante",
+      "originalTittle": "Intérieur d'un restaurant",
+      "datePainting": "Verão de 1887",
+      "imagePainting": "PAINT_interior_de_um_restaurante.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Kröller-Müller, Otterlo, Países Baixos",
+      "color1": "#e6b800",
+      "color2": "#b33f62",
+      "color3": "#f95738",
+      "color4": "#0d3b66",
+      "color5": "#faf0ca",
+      "width": 1108,
+      "height": 900
+    },
+    {
+      "id": "98",
+      "namePainting": "Trigal sob Céu Trovejante",
+      "originalTittle": "Champ de blé sous un ciel d'orage",
+      "datePainting": "Julho de 1890",
+      "imagePainting": "PAINT_trigal_sob_ceu_trovejante.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#032b43",
+      "color2": "#3f88c5",
+      "color3": "#4caf50",
+      "color4": "#d5a021",
+      "color5": "#f7e57c",
+      "width": 6212,
+      "height": 3053
+    },
+    {
+      "id": "99",
+      "namePainting": "O Escolar (O Filho do Carteiro)",
+      "originalTittle": "L'Écolier (Le Fils du facteur)",
+      "datePainting": "Setembro de 1888",
+      "imagePainting": "PAINT_o_escolar_o_filho_do_carteiro.jpg",
+      "style": "Pós-Impressionista",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu de Arte de São Paulo (MASP), São Paulo, Brasil",
+      "color1": "#ffba08",
+      "color2": "#d00000",
+      "color3": "#03071e",
+      "color4": "#6a040f",
+      "color5": "#faa307",
+      "width": 1693,
+      "height": 2000
+    },
+    {
+      "id": "100",
+      "namePainting": "Natureza-morta com Bíblia",
+      "originalTittle": "Stilleven met bijbel",
+      "datePainting": "Outubro de 1885",
+      "imagePainting": "PAINT_natureza_morta_com_biblia.jpg",
+      "style": "Realismo",
+      "materials": "tinta a óleo sobre tela",
+      "local": "Museu Van Gogh, Amsterdã, Países Baixos",
+      "color1": "#2a211a",
+      "color2": "#6b4528",
+      "color3": "#d4b47c",
+      "color4": "#a17c38",
+      "color5": "#403329",
+      "width": 800,
+      "height": 665
     }
   ]
 }
