@@ -1,22 +1,18 @@
 "use client";
 
-import { useState } from "react";
-import { Button } from "@/components/ui/button";
-import { PaintingCarousel } from "@/components/PaintingCarousel";
-import { paintings } from "../../public/data/paintings";
-import { AppSidebar } from "@/components/AppSidebar";
-import Link from "next/link";
-import logo from "../../public/assets/logo.png";
 import { motion } from "motion/react";
-import { SparklesCore } from "@/components/ui/sparkles";
+import Link from "next/link";
 import { useTheme } from "next-themes";
+import { PaintingCarousel } from "@/components/PaintingCarousel";
+import { Button } from "@/components/ui/button";
+import { SparklesCore } from "@/components/ui/sparkles";
+import { paintings } from "../../public/data/paintings";
 
 export default function HomePage() {
-  const [open, setOpen] = useState(false);
   const theme = useTheme().theme;
 
   return (
-    <div className="flex flex-col min-h-screen font-josefin">
+    <div className="flex flex-col justify-center items-center min-h-screen font-josefin pt-5 sm:pt-10 md:pt-0">
       <div
         className="absolute inset-0 w-full h-full pointer-events-none"
         aria-hidden="true"
@@ -31,12 +27,8 @@ export default function HomePage() {
           particleColor={theme === "dark" ? "#d4d4d8" : "#09090b"}
         />
       </div>
-      <AppSidebar open={open} setOpen={setOpen} />
 
-      <main
-        className="flex flex-col items-center justify-center flex-1 w-full max-w-7xl px-4 mx-auto text-center"
-        role="main"
-      >
+      <main className="flex flex-col items-center justify-center flex-1 w-full max-w-7xl px-4 mx-auto text-center">
         <header className="mb-4 mt-10 lg:mt-0">
           <motion.h1
             initial={{ opacity: 0, x: 30 }}

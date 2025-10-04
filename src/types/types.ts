@@ -1,6 +1,6 @@
-import { Dispatch, SetStateAction } from "react";
+import type { Dispatch, SetStateAction } from "react";
 
-export interface Paiting {
+export interface Painting {
   id: string;
   namePainting: string;
   originalTittle: string;
@@ -32,7 +32,7 @@ export interface PaintingCarouselProps {
 
 export interface Links {
   label: string;
-  href: string;
+  href?: string;
   icon?: React.JSX.Element | React.ReactNode;
 }
 
@@ -41,3 +41,16 @@ export interface SidebarContextProps {
   setOpen: React.Dispatch<React.SetStateAction<boolean>>;
   animate: boolean;
 }
+
+export type Photo = {
+  id: string;
+  src: string;
+  width: number;
+  height: number;
+  alt: string;
+  title: string;
+  date: string;
+  originalTittle: string;
+  local: string;
+  materials: string;
+};
