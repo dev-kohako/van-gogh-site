@@ -1,9 +1,7 @@
-import { Links } from "@/types/types";
 import { Home, Images, Palette, User } from "lucide-react";
+import type { Links } from "@/types/types";
 
-const iconClasses = "h-5 w-5 shrink-0 text-foreground";
-
-
+const iconClasses = "h-6 w-6 shrink-0 text-foreground";
 
 export const links: Links[] = [
   {
