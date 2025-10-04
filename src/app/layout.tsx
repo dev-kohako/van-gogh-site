@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
-import { Inter, Josefin_Sans, Alex_Brush } from "next/font/google";
+import { Alex_Brush, Inter, Josefin_Sans } from "next/font/google";
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
+import { LayoutWrapper } from "./layoutWrapper";
 
 const josefinSans = Josefin_Sans({
   variable: "--font-josefin-sans",
@@ -46,7 +47,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          {children}
+          <LayoutWrapper>{children}</LayoutWrapper>
         </ThemeProvider>
       </body>
     </html>
