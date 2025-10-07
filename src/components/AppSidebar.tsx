@@ -8,6 +8,7 @@ import { ModeToggle } from "@/components/toggleDarkMode";
 import { Sidebar, SidebarBody, SidebarLink } from "@/components/ui/sidebar";
 import logo from "../../public/assets/logo.png";
 import { links } from "../../public/data/links";
+import { v4 as uuidv4 } from "uuid";
 
 export function AppSidebar() {
   const [open, setOpen] = useState(false);
@@ -44,7 +45,7 @@ export function AppSidebar() {
               aria-label="Links principais"
             >
               {links.map((link) => (
-                <SidebarLink key={crypto.randomUUID()} link={link} />
+                <SidebarLink key={uuidv4()} link={link} />
               ))}
             </nav>
           </section>

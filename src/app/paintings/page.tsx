@@ -43,8 +43,11 @@ export default function PaintingsPage() {
     buttonVariants,
     titleVariants,
     dateVariants,
-    MotionImage,
+    containerRef,
+    activeId,
+    handleClick,
     isLoading,
+    MotionImage,
   } = usePaintings();
 
   if (isLoading) {
@@ -162,19 +165,23 @@ export default function PaintingsPage() {
         >
           <FocusContainer>
             {(hovered, setHovered) => (
-              <motion.ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 list-none p-0">
+              <motion.ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 list-none">
                 {currentItems.map((photo, i) => (
                   <li key={photo.id}>
                     <FocusItem
                       index={i}
                       hovered={hovered}
                       setHovered={setHovered}
+                      className="rounded-lg pointer-events-none"
                     >
                       <motion.article
+                        ref={containerRef}
                         aria-labelledby={`painting-${photo.id}`}
-                        className="group relative block w-full overflow-hidden rounded-lg bg-transparent border-2 shadow-sm transition-all hover:shadow-md focus-within:ring-2 focus-within:ring-primary focus:outline-none"
+                        className="group relative block w-full border overflow-hidden rounded-lg bg-transparent transition-all pointer-events-auto"
                         initial="initial"
+                        animate={activeId === photo.id ? "hover" : "initial"}
                         whileHover="hover"
+                        onClick={() => handleClick(photo.id)}
                       >
                         <motion.figure className="m-0 relative">
                           <MotionImage
@@ -218,7 +225,7 @@ export default function PaintingsPage() {
                                 className="mt-2 text-sm bg-background hover:bg-background/90 dark:bg-foreground dark:hover:bg-foreground/90 text-foreground dark:text-background"
                               >
                                 <Link
-                                  href={`/paintings/${photo.id}`}
+                                  href={``}
                                   aria-label={`Ver detalhes de ${photo.title}`}
                                 >
                                   Ver detalhes

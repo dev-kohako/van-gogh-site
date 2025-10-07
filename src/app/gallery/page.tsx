@@ -95,7 +95,7 @@ export default function GalleryPage() {
                   height={photo.height}
                   priority={i < 5}
                   sizes="(min-width: 1280px) 20vw, (min-width: 1024px) 25vw, (min-width: 768px) 33vw, (min-width: 640px) 50vw, 100vw"
-                  className="h-full w-full object-cover opacity-0 transition-opacity duration-300 ease-in-out"
+                  className="h-full w-full object-cover opacity-0 transition-opacity duration-300 ease-in-out rounded-lg"
                   onLoadingComplete={(img) => img.classList.remove("opacity-0")}
                 />
                 <motion.figcaption
