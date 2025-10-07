@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import Image from "next/image";
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import type { Photo } from "@/types/types";
 import { data_painting } from "../../../public/data/data.json";
 
@@ -13,9 +13,33 @@ export function usePaintings() {
   const [currentPage, setCurrentPage] = useState(1);
   const [searchTerm, setSearchTerm] = useState("");
   const [order, setOrder] = useState<"ascendente" | "descendente">(
-    "ascendente",
+    "ascendente"
   );
   const [sortBy, setSortBy] = useState<"nome" | "data">("nome");
+
+  const [activeId, setActiveId] = useState<string | null>(null);
+  const containerRef = useRef<HTMLUListElement>(null);
+
+  const handleClick = (id: string) => {
+    if (window.matchMedia("(hover: hover)").matches) return;
+    setActiveId((prev) => (prev === id ? null : id));
+  };
+
+  const handleClickOutside = (event: MouseEvent) => {
+    if (
+      containerRef.current &&
+      !containerRef.current.contains(event.target as Node)
+    ) {
+      setActiveId(null);
+    }
+  };
+
+  useEffect(() => {
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => {
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, []);
 
   useEffect(() => {
     try {
@@ -46,7 +70,7 @@ export function usePaintings() {
 
   const filteredAndSortedPhotos = useMemo(() => {
     const filtered = photos.filter((photo) =>
-      photo.title.toLowerCase().includes(searchTerm.toLowerCase()),
+      photo.title.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
     return filtered.sort((a, b) => {
@@ -63,7 +87,7 @@ export function usePaintings() {
   const totalPages = Math.ceil(filteredAndSortedPhotos.length / perPage);
   const currentItems = filteredAndSortedPhotos.slice(
     (currentPage - 1) * perPage,
-    currentPage * perPage,
+    currentPage * perPage
   );
 
   const imageVariants = {
@@ -135,6 +159,9 @@ export function usePaintings() {
     descriptionTitleVariants,
     descriptionDateVariants,
     buttonVariants,
+    containerRef,
+    handleClick,
+    activeId,
     MotionImage,
   };
 }
