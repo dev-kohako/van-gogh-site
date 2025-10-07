@@ -64,7 +64,7 @@ export default function GalleryPage() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, ease: "easeInOut" }}
         aria-labelledby="gallery-title"
-        className="mx-auto max-w-7xl sm:pl-10"
+        className="mx-auto w-full max-w-7xl md:pl-10"
       >
         <LightGallery
           speed={500}

@@ -12,7 +12,7 @@ export default function HomePage() {
   const theme = useTheme().theme;
 
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen font-josefin pt-5 sm:pt-10 md:pt-0">
+    <div className="flex flex-col justify-center items-center min-h-screen font-josefin pt-5 sm:pt-10 md:pt-0 md:pl-[5%]">
       <div
         className="absolute inset-0 w-full h-full pointer-events-none"
         aria-hidden="true"
@@ -87,7 +87,7 @@ export default function HomePage() {
             <Link href="/paintings" passHref>
               <Button
                 size="lg"
-                className="font-josefin"
+                className="text-base font-josefin"
                 aria-label="Explorar obras de Van Gogh"
               >
                 Explorar Obras
