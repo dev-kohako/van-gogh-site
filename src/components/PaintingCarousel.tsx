@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { Autoplay, EffectCoverflow } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { v4 as uuidv4 } from "uuid";
 
 import "swiper/css";
 import "swiper/css/effect-coverflow";
@@ -30,7 +31,7 @@ export function PaintingCarousel({ paintings }: PaintingCarouselProps) {
     >
       {paintings.map((painting, i) => (
         <SwiperSlide
-          key={crypto.randomUUID()}
+          key={uuidv4()}
           className="flex justify-center items-center"
         >
           <Image
