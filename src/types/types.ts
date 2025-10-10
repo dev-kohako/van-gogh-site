@@ -49,7 +49,8 @@ export type Photo = {
   alt: string;
   title: string;
   date: string;
-  originalTittle: string;
+  originalTitle: string;
   local: string;
   materials: string;
+  aspectRatio: string;
 };
