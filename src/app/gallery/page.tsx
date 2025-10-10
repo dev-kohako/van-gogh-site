@@ -2,6 +2,7 @@
 
 import LightGallery from "lightgallery/react";
 import Image from "next/image";
+import { motion } from "motion/react";
 
 import "lightgallery/css/lightgallery.css";
 import "lightgallery/css/lg-zoom.css";
@@ -9,23 +10,44 @@ import "lightgallery/css/lg-thumbnail.css";
 
 import lgThumbnail from "lightgallery/plugins/thumbnail";
 import lgZoom from "lightgallery/plugins/zoom";
-import { motion } from "motion/react";
 import { useGallery } from "./useGallery";
+import { data_painting } from "../../../public/data/data.json";
+import { Photo } from "@/types/types";
+import { toast } from "sonner";
 
 export default function GalleryPage() {
-  const {
-    photos,
-    scaleX,
-    hoverVariants,
-    overlayVariants,
-    titleVariants,
-    isLoading,
-  } = useGallery();
+  const { scaleX, hoverVariants, overlayVariants, titleVariants } =
+    useGallery();
 
-  if (isLoading) {
+  let photos: Photo[] = [];
+
+  try {
+    photos = (data_painting || [])
+      .filter((p) => p.width && p.height && p.imagePainting)
+      .map((painting) => ({
+        id: painting.id,
+        src: `/assets/paintings/${painting.imagePainting}`,
+        width: painting.width,
+        height: painting.height,
+        aspectRatio: `${painting.width} / ${painting.height}`,
+        alt: `Pintura "${painting.namePainting}", datada de ${painting.datePainting}.`,
+        title: painting.namePainting,
+        date: painting.datePainting,
+        originalTitle: painting.originalTitle,
+        local: painting.local,
+        materials: painting.materials,
+      }));
+  } catch (error) {
+    console.error("Erro ao processar dados da galeria:", error);
+    toast.error("Falha ao carregar a galeria. Tente novamente mais tarde.");
+  }
+
+  if (!photos.length) {
     return (
       <main className="flex items-center justify-center h-screen">
-        <p className="text-lg text-muted-foreground">Carregando galeria...</p>
+        <p className="text-lg text-muted-foreground">
+          Nenhuma pintura encontrada.
+        </p>
       </main>
     );
   }
@@ -85,7 +107,7 @@ export default function GalleryPage() {
               `}
               aria-label={`Ampliar ${photo.title}`}
               className="group relative mb-3 sm:mb-5 block w-full overflow-hidden rounded-lg bg-foreground"
-              style={{ aspectRatio: `${photo.width} / ${photo.height}` }}
+              style={{ aspectRatio: photo.aspectRatio }}
             >
               <motion.figure variants={hoverVariants} className="m-0">
                 <Image
@@ -93,10 +115,12 @@ export default function GalleryPage() {
                   alt={photo.alt}
                   width={photo.width}
                   height={photo.height}
+                  placeholder="blur"
+                  blurDataURL="/assets/placeholder.jpg"
                   priority={i < 5}
+                  loading={i < 5 ? "eager" : "lazy"}
                   sizes="(min-width: 1280px) 20vw, (min-width: 1024px) 25vw, (min-width: 768px) 33vw, (min-width: 640px) 50vw, 100vw"
-                  className="h-full w-full object-cover opacity-0 transition-opacity duration-300 ease-in-out rounded-lg"
-                  onLoadingComplete={(img) => img.classList.remove("opacity-0")}
+                  className="h-full w-full object-cover rounded-lg transition-transform duration-300 ease-in-out"
                 />
                 <motion.figcaption
                   aria-hidden="true"
