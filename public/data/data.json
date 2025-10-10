@@ -3,7 +3,7 @@
     {
       "id": "1",
       "namePainting": "A Noite Estrelada",
-      "originalTittle": "De Sterrennacht",
+      "originalTitle": "De Sterrennacht",
       "datePainting": "Junho de 1889",
       "imagePainting": "PAINT_noite_estrelada.jpg",
       "style": "Pós-impressionista",
@@ -24,7 +24,7 @@
     {
       "id": "2",
       "namePainting": "Os Girassóis",
-      "originalTittle": "Zonnebloemen",
+      "originalTitle": "Zonnebloemen",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_os_girassois.jpg",
       "style": "Pós-impressionista",
@@ -45,7 +45,7 @@
     {
       "id": "3",
       "namePainting": "A Noite Estrelada sobre o Ródano",
-      "originalTittle": "Nuit étoilée sur le Rhône",
+      "originalTitle": "Nuit étoilée sur le Rhône",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_noite_estrelada_rodano.jpg",
       "style": "Pós-impressionista",
@@ -66,7 +66,7 @@
     {
       "id": "4",
       "namePainting": "O Quarto em Arles",
-      "originalTittle": "La Chambre à Arles",
+      "originalTitle": "La Chambre à Arles",
       "datePainting": "Setembro de 1889",
       "imagePainting": "PAINT_quarto_em_arles.jpg",
       "style": "Pós-impressionista",
@@ -87,7 +87,7 @@
     {
       "id": "5",
       "namePainting": "Terraço do Café à Noite",
-      "originalTittle": "Terrasse du Café le Soir",
+      "originalTitle": "Terrasse du Café le Soir",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_terraco_cafe.jpg",
       "style": "Pós-impressionista",
@@ -108,7 +108,7 @@
     {
       "id": "6",
       "namePainting": "Auto-Retrato com Orelha Cortada",
-      "originalTittle": "Autoportrait avec l'oreille bandée",
+      "originalTitle": "Autoportrait avec l'oreille bandée",
       "datePainting": "Janeiro de 1889",
       "imagePainting": "PAINT_auto_retrato_orelha_cortada.jpg",
       "style": "Pós-Impressionista",
@@ -129,7 +129,7 @@
     {
       "id": "7",
       "namePainting": "O Semeador",
-      "originalTittle": "Le Semeur",
+      "originalTitle": "Le Semeur",
       "datePainting": "Junho de 1888",
       "imagePainting": "PAINT_a_sede.jpg",
       "style": "Pós-Impressionista",
@@ -150,7 +150,7 @@
     {
       "id": "8",
       "namePainting": "Campo de Trigo com Corvos",
-      "originalTittle": "Champ de blé aux corbeaux",
+      "originalTitle": "Champ de blé aux corbeaux",
       "datePainting": "Julho de 1890",
       "imagePainting": "PAINT_campo_trigo_corvos.jpg",
       "style": "Pós-Impressionista",
@@ -171,7 +171,7 @@
     {
       "id": "9",
       "namePainting": "Irises",
-      "originalTittle": "Iris",
+      "originalTitle": "Iris",
       "datePainting": "Maio de 1889",
       "imagePainting": "PAINT_irises.jpg",
       "style": "Pós-Impressionista",
@@ -192,7 +192,7 @@
     {
       "id": "10",
       "namePainting": "Retrato do Doutor Gachet",
-      "originalTittle": "Portrait of Dr. Gachet",
+      "originalTitle": "Portrait of Dr. Gachet",
       "datePainting": "Junho de 1890",
       "imagePainting": "PAINT_retrato_doutor_gachet.jpg",
       "style": "Pós-Impressionista",
@@ -213,7 +213,7 @@
     {
       "id": "11",
       "namePainting": "Autorretrato com Chapéu de Palha",
-      "originalTittle": "Autoportrait avec le chapeau de paille",
+      "originalTitle": "Autoportrait avec le chapeau de paille",
       "datePainting": "Verão de 1887",
       "imagePainting": "PAINT_autorretrato_chapeu_palha.jpg",
       "style": "Pós-Impressionista",
@@ -234,7 +234,7 @@
     {
       "id": "12",
       "namePainting": "A Vinha Encarnada",
-      "originalTittle": "La Vigne Rouge",
+      "originalTitle": "La Vigne Rouge",
       "datePainting": "Novembro de 1888",
       "imagePainting": "PAINT_vinha_encarnada.jpg",
       "style": "Pós-Impressionista",
@@ -255,7 +255,7 @@
     {
       "id": "13",
       "namePainting": "Ponte de Langlois em Arles",
-      "originalTittle": "Langlois Bridge at Arles",
+      "originalTitle": "Langlois Bridge at Arles",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_ponte_langlois_arles.jpg",
       "style": "Pós-Impressionista",
@@ -276,7 +276,7 @@
     {
       "id": "14",
       "namePainting": "Autorretrato com Orelha Cortada e Cachimbo",
-      "originalTittle": "Self-Portrait with Bandaged Ear and Pipe",
+      "originalTitle": "Self-Portrait with Bandaged Ear and Pipe",
       "datePainting": "Janeiro de 1889",
       "imagePainting": "PAINT_autorretrato_orelha_cortada_cachimbo.jpg",
       "style": "Pós-Impressionista",
@@ -297,7 +297,7 @@
     {
       "id": "15",
       "namePainting": "O Semeador",
-      "originalTittle": "The Sower",
+      "originalTitle": "The Sower",
       "datePainting": "Novembro de 1888",
       "imagePainting": "PAINT_o_semeador.jpg",
       "style": "Pós-Impressionista",
@@ -318,7 +318,7 @@
     {
       "id": "16",
       "namePainting": "A Casa Amarela",
-      "originalTittle": "The Yellow House",
+      "originalTitle": "The Yellow House",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_casa_amarela.jpg",
       "style": "Pós-Impressionista",
@@ -339,7 +339,7 @@
     {
       "id": "17",
       "namePainting": "Rua em Auvers após a Chuva",
-      "originalTittle": "Street in Auvers after the Rain",
+      "originalTitle": "Street in Auvers after the Rain",
       "datePainting": "Julho de 1890",
       "imagePainting": "PAINT_rua_auvers_chuva.jpg",
       "style": "Pós-Impressionista",
@@ -360,7 +360,7 @@
     {
       "id": "18",
       "namePainting": "Amendoeira em Flor",
-      "originalTittle": "Almond Blossom",
+      "originalTitle": "Almond Blossom",
       "datePainting": "Fevereiro de 1890",
       "imagePainting": "PAINT_amendoeira_flor.jpg",
       "style": "Pós-Impressionista",
@@ -381,7 +381,7 @@
     {
       "id": "19",
       "namePainting": "A Casa Branca em Noite Estrelada",
-      "originalTittle": "The White House at Night",
+      "originalTitle": "The White House at Night",
       "datePainting": "Junho de 1890",
       "imagePainting": "PAINT_casa_branca_noite_estrelada.jpg",
       "style": "Pós-Impressionista",
@@ -402,7 +402,7 @@
     {
       "id": "20",
       "namePainting": "Auto-Retrato com Chapéu de Palha",
-      "originalTittle": "Autoportrait à la paille",
+      "originalTitle": "Autoportrait à la paille",
       "datePainting": "Verão de 1887",
       "imagePainting": "PAINT_auto_retrato_chapeu_palha.jpg",
       "style": "Pós-Impressionista",
@@ -423,7 +423,7 @@
     {
       "id": "21",
       "namePainting": "A Ponte em Trinquetaille",
-      "originalTittle": "Le Pont de Trinquetaille",
+      "originalTitle": "Le Pont de Trinquetaille",
       "datePainting": "Outubro de 1888",
       "imagePainting": "PAINT_ponte_trinquetaille.jpg",
       "style": "Pós-Impressionista",
@@ -444,7 +444,7 @@
     {
       "id": "22",
       "namePainting": "Retrato de Joseph Roulin",
-      "originalTittle": "Portrait de Joseph Roulin",
+      "originalTitle": "Portrait de Joseph Roulin",
       "datePainting": "Inverno de 1888",
       "imagePainting": "PAINT_retrato_joseph_roulin.jpg",
       "style": "Pós-Impressionista",
@@ -465,7 +465,7 @@
     {
       "id": "23",
       "namePainting": "A Igreja em Auvers",
-      "originalTittle": "L'Église à Auvers",
+      "originalTitle": "L'Église à Auvers",
       "datePainting": "Junho de 1890",
       "imagePainting": "PAINT_igreja_auvers.jpg",
       "style": "Pós-Impressionista",
@@ -486,7 +486,7 @@
     {
       "id": "24",
       "namePainting": "As Oliveiras",
-      "originalTittle": "Les Oliviers",
+      "originalTitle": "Les Oliviers",
       "datePainting": "Junho de 1889",
       "imagePainting": "PAINT_oliveiras.jpg",
       "style": "Pós-Impressionista",
@@ -507,7 +507,7 @@
     {
       "id": "25",
       "namePainting": "Café, Noite",
-      "originalTittle": "Café, Nuit",
+      "originalTitle": "Café, Nuit",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_cafe_noite.jpg",
       "style": "Pós-Impressionista",
@@ -528,7 +528,7 @@
     {
       "id": "26",
       "namePainting": "Auto-Retrato como Artista",
-      "originalTittle": "Autoportrait en artiste",
+      "originalTitle": "Autoportrait en artiste",
       "datePainting": "Janeiro de 1888",
       "imagePainting": "PAINT_auto_retrato_artista.jpg",
       "style": "Pós-Impressionista",
@@ -549,7 +549,7 @@
     {
       "id": "27",
       "namePainting": "Auto-Retrato com Chapéu de Palha e Cachimbo",
-      "originalTittle": "Autoportrait avec chapeau de paille et pipe",
+      "originalTitle": "Autoportrait avec chapeau de paille et pipe",
       "datePainting": "Verão de 1887",
       "imagePainting": "PAINT_auto_retrato_chapeu_cachimbo.jpg",
       "style": "Pós-Impressionista",
@@ -570,7 +570,7 @@
     {
       "id": "28",
       "namePainting": "Congregação Deixando a Igreja Reformada em Nuenen",
-      "originalTittle": "Het uitgaan van de Hervormde Kerk te Nuenen",
+      "originalTitle": "Het uitgaan van de Hervormde Kerk te Nuenen",
       "datePainting": "Janeiro de 1884 - Outono de 1885",
       "imagePainting": "PAINT_igreja_nuenen_tempestade.jpg",
       "style": "Realismo",
@@ -591,7 +591,7 @@
     {
       "id": "29",
       "namePainting": "Retrato de Adeline Ravoux",
-      "originalTittle": "Portrait d'Adeline Ravoux",
+      "originalTitle": "Portrait d'Adeline Ravoux",
       "datePainting": "Junho de 1890",
       "imagePainting": "PAINT_retrato_adeline_ravoux.jpg",
       "style": "Pós-Impressionista",
@@ -612,7 +612,7 @@
     {
       "id": "30",
       "namePainting": "A Cadeira de Van Gogh",
-      "originalTittle": "La Chaise de Van Gogh",
+      "originalTitle": "La Chaise de Van Gogh",
       "datePainting": "Dezembro de 1888",
       "imagePainting": "PAINT_a_cadeira.jpg",
       "style": "Pós-Impressionista",
@@ -633,7 +633,7 @@
     {
       "id": "31",
       "namePainting": "Rua em Auvers-sur-Oise",
-      "originalTittle": "Rue à Auvers-sur-Oise",
+      "originalTitle": "Rue à Auvers-sur-Oise",
       "datePainting": "Maio de 1890",
       "imagePainting": "PAINT_rua_auvers_sur_oise.jpg",
       "style": "Pós-Impressionista",
@@ -654,7 +654,7 @@
     {
       "id": "32",
       "namePainting": "Vaso com Quinze Girassóis",
-      "originalTittle": "Vase avec quinze tournesols",
+      "originalTitle": "Vase avec quinze tournesols",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_vaso_quinze_girassois.jpg",
       "style": "Pós-Impressionista",
@@ -675,7 +675,7 @@
     {
       "id": "33",
       "namePainting": "A Colina de Montmartre com Pedreira",
-      "originalTittle": "La Butte Montmartre avec carrière",
+      "originalTitle": "La Butte Montmartre avec carrière",
       "datePainting": "Inverno de 1886",
       "imagePainting": "PAINT_colina_montmartre_pedreira.jpg",
       "style": "Pós-Impressionista",
@@ -696,7 +696,7 @@
     {
       "id": "34",
       "namePainting": "O Jardim de Daubigny",
-      "originalTittle": "Le Jardin de Daubigny",
+      "originalTitle": "Le Jardin de Daubigny",
       "datePainting": "Maio de 1890",
       "imagePainting": "PAINT_jardim_daubigny.jpg",
       "style": "Pós-Impressionista",
@@ -717,7 +717,7 @@
     {
       "id": "35",
       "namePainting": "Auto-Retrato sem Barba",
-      "originalTittle": "Autoportrait sans barbe",
+      "originalTitle": "Autoportrait sans barbe",
       "datePainting": "Setembro de 1889",
       "imagePainting": "PAINT_auto_retrato_sem_barba.jpg",
       "style": "Pós-Impressionista",
@@ -738,7 +738,7 @@
     {
       "id": "36",
       "namePainting": "Mulher de Branco no Jardim",
-      "originalTittle": "Femme en blanc dans un jardin",
+      "originalTitle": "Femme en blanc dans un jardin",
       "datePainting": "Julho de 1890",
       "imagePainting": "PAINT_mulher_branco.jpg",
       "style": "Pós-Impressionista",
@@ -759,7 +759,7 @@
     {
       "id": "37",
       "namePainting": "A Antiga Torre da Igreja em Nuenen",
-      "originalTittle": "De oude kerktoren te Nuenen",
+      "originalTitle": "De oude kerktoren te Nuenen",
       "datePainting": "Maio de 1885",
       "imagePainting": "PAINT_antiga_igreja_nuenen.jpg",
       "style": "Realismo",
@@ -780,7 +780,7 @@
     {
       "id": "38",
       "namePainting": "Mulher Sentada ('La Mousmé')",
-      "originalTittle": "La Mousmé, assise",
+      "originalTitle": "La Mousmé, assise",
       "datePainting": "Julho de 1888",
       "imagePainting": "PAINT_mulher_sentada.jpg",
       "style": "Pós-Impressionista",
@@ -801,7 +801,7 @@
     {
       "id": "39",
       "namePainting": "Os Comedores de Batata",
-      "originalTittle": "De Aardappeleters",
+      "originalTitle": "De Aardappeleters",
       "datePainting": "Abril de 1885",
       "imagePainting": "PAINT_os_comedores_de_batata.jpg",
       "style": "Realismo",
@@ -822,7 +822,7 @@
     {
       "id": "40",
       "namePainting": "Caveira de um Esqueleto com Cigarro Aceso",
-      "originalTittle": "Kop van een skelet met brandende sigaret",
+      "originalTitle": "Kop van een skelet met brandende sigaret",
       "datePainting": "Inverno de 1885–86",
       "imagePainting": "PAINT_caveira_com_cigarro_aceso.jpg",
       "style": "Pós-Impressionista",
@@ -843,7 +843,7 @@
     {
       "id": "41",
       "namePainting": "O Semeador (após Millet)",
-      "originalTittle": "De zaaier (naar Millet)",
+      "originalTitle": "De zaaier (naar Millet)",
       "datePainting": "Outubro de 1889",
       "imagePainting": "PAINT_o_semeador_apos_millet.jpg",
       "style": "Pós-Impressionista",
@@ -864,7 +864,7 @@
     {
       "id": "42",
       "namePainting": "A Sesta (após Millet)",
-      "originalTittle": "La Méridienne (d'après Millet)",
+      "originalTitle": "La Méridienne (d'après Millet)",
       "datePainting": "Janeiro de 1890",
       "imagePainting": "PAINT_a_sesta_apos_millet.jpg",
       "style": "Pós-Impressionista",
@@ -885,7 +885,7 @@
     {
       "id": "43",
       "namePainting": "Velho Triste ('Às Portas da Eternidade')",
-      "originalTittle": "Sorrowing Old Man ('At Eternity's Gate')",
+      "originalTitle": "Sorrowing Old Man ('At Eternity's Gate')",
       "datePainting": "Maio de 1890",
       "imagePainting": "PAINT_velho_triste_as_portas_da_eternidade.jpg",
       "style": "Pós-Impressionista",
@@ -906,7 +906,7 @@
     {
       "id": "44",
       "namePainting": "L'Arlésienne: Madame Ginoux",
-      "originalTittle": "L'Arlésienne: Madame Ginoux",
+      "originalTitle": "L'Arlésienne: Madame Ginoux",
       "datePainting": "Novembro de 1888",
       "imagePainting": "PAINTS_larlesienne_madame_ginoux.jpg",
       "style": "Pós-Impressionista",
@@ -927,7 +927,7 @@
     {
       "id": "45",
       "namePainting": "Campo de Trigo com Ceifador",
-      "originalTittle": "Wheatfield with a Reaper",
+      "originalTitle": "Wheatfield with a Reaper",
       "datePainting": "Setembro de 1889",
       "imagePainting": "PAINT_campo_de_trigo_com_ceifador.jpg",
       "style": "Pós-Impressionista",
@@ -948,7 +948,7 @@
     {
       "id": "46",
       "namePainting": "A Ronda dos Prisioneiros (após Doré)",
-      "originalTittle": "De gevangenenronde (naar Doré)",
+      "originalTitle": "De gevangenenronde (naar Doré)",
       "datePainting": "Fevereiro de 1890",
       "imagePainting": "PAINT_rodada_de_prisioneiros_depois_de_gustave_dore.jpg",
       "style": "Pós-Impressionista",
@@ -969,7 +969,7 @@
     {
       "id": "47",
       "namePainting": "O Bom Samaritano (após Delacroix)",
-      "originalTittle": "Le bon Samaritain (d'après Delacroix)",
+      "originalTitle": "Le bon Samaritain (d'après Delacroix)",
       "datePainting": "Maio de 1890",
       "imagePainting": "PAINT_o_bom_samaritano_apos_delacroix.jpg",
       "style": "Pós-Impressionista",
@@ -990,7 +990,7 @@
     {
       "id": "48",
       "namePainting": "O Jardim do Poeta",
-      "originalTittle": "Le Jardin du Poète",
+      "originalTitle": "Le Jardin du Poète",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_o_jardim_do_poeta.jpg",
       "style": "Pós-Impressionista",
@@ -1011,7 +1011,7 @@
     {
       "id": "49",
       "namePainting": "Memória do Jardim em Etten",
-      "originalTittle": "Souvenir du Jardin à Etten",
+      "originalTitle": "Souvenir du Jardin à Etten",
       "datePainting": "Novembro de 1888",
       "imagePainting": "PAINT_memória_do_jardim_em_etten.jpg",
       "style": "Pós-Impressionista",
@@ -1032,7 +1032,7 @@
     {
       "id": "50",
       "namePainting": "Raízes de Árvores",
-      "originalTittle": "Racines d'arbres",
+      "originalTitle": "Racines d'arbres",
       "datePainting": "Julho de 1890",
       "imagePainting": "PAINT_raizes_de_arvores.jpg",
       "style": "Pós-Impressionista",
@@ -1053,7 +1053,7 @@
     {
       "id": "51",
       "namePainting": "Ciprestes",
-      "originalTittle": "Les Cyprès",
+      "originalTitle": "Les Cyprès",
       "datePainting": "Junho de 1889",
       "imagePainting": "PAINT_ciprestes.jpg",
       "style": "Pós-Impressionista",
@@ -1074,7 +1074,7 @@
     {
       "id": "52",
       "namePainting": "Estrada com Cipreste e Estrela",
-      "originalTittle": "Route avec cyprès et étoile",
+      "originalTitle": "Route avec cyprès et étoile",
       "datePainting": "Maio de 1890",
       "imagePainting": "PAINT_estrada_com_cipreste_e_estrela.jpg",
       "style": "Pós-Impressionista",
@@ -1095,7 +1095,7 @@
     {
       "id": "53",
       "namePainting": "A Cadeira de Gauguin",
-      "originalTittle": "La Chaise de Gauguin",
+      "originalTitle": "La Chaise de Gauguin",
       "datePainting": "Novembro de 1888",
       "imagePainting": "PAINT_a_cadeira_de_gauguin.jpg",
       "style": "Pós-Impressionista",
@@ -1116,7 +1116,7 @@
     {
       "id": "54",
       "namePainting": "Les Alyscamps",
-      "originalTittle": "Les Alyscamps",
+      "originalTitle": "Les Alyscamps",
       "datePainting": "Outubro de 1888",
       "imagePainting": "PAINT_les_alyscamps.jpg",
       "style": "Pós-Impressionista",
@@ -1137,7 +1137,7 @@
     {
       "id": "55",
       "namePainting": "La Berceuse (Augustine Roulin)",
-      "originalTittle": "La Berceuse",
+      "originalTitle": "La Berceuse",
       "datePainting": "Janeiro de 1889",
       "imagePainting": "PAINT_la_berceuse_augustine_roulin.jpg",
       "style": "Pós-Impressionista",
@@ -1158,7 +1158,7 @@
     {
       "id": "56",
       "namePainting": "Dois Caranguejos",
-      "originalTittle": "Twee krabben",
+      "originalTitle": "Twee krabben",
       "datePainting": "Janeiro de 1889",
       "imagePainting": "PAINT_dois_caranguejos.jpg",
       "style": "Pós-Impressionista",
@@ -1179,7 +1179,7 @@
     {
       "id": "57",
       "namePainting": "Retrato de Père Tanguy",
-      "originalTittle": "Portrait du Père Tanguy",
+      "originalTitle": "Portrait du Père Tanguy",
       "datePainting": "Inverno de 1887-88",
       "imagePainting": "PAINT_retrato_de_per_tanguy.jpg",
       "style": "Pós-Impressionista",
@@ -1200,7 +1200,7 @@
     {
       "id": "58",
       "namePainting": "A Pietà (após Delacroix)",
-      "originalTittle": "La Pietà (d'après Delacroix)",
+      "originalTitle": "La Pietà (d'après Delacroix)",
       "datePainting": "Setembro de 1889",
       "imagePainting": "PAINT_a_pietao_apos_delacroix.jpg",
       "style": "Pós-Impressionista",
@@ -1221,7 +1221,7 @@
     {
       "id": "59",
       "namePainting": "A Ressurreição de Lázaro (após Rembrandt)",
-      "originalTittle": "De opwekking van Lazarus (naar Rembrandt)",
+      "originalTitle": "De opwekking van Lazarus (naar Rembrandt)",
       "datePainting": "Maio de 1890",
       "imagePainting": "PAINT_a_ressurreicao_de_lazaro_apos_rembrandt.jpg",
       "style": "Pós-Impressionista",
@@ -1242,7 +1242,7 @@
     {
       "id": "60",
       "namePainting": "Agostina Segatori sentada no Café du Tambourin",
-      "originalTittle": "Agostina Segatori assise au café du Tambourin",
+      "originalTitle": "Agostina Segatori assise au café du Tambourin",
       "datePainting": "Março de 1887",
       "imagePainting": "PAINT_agostina_segatori_sentada_no_cafe_do_tamborim.jpg",
       "style": "Pós-Impressionista",
@@ -1263,7 +1263,7 @@
     {
       "id": "61",
       "namePainting": "Barcos de Pesca na Praia de Saintes-Maries",
-      "originalTittle": "Barques de pêche sur la plage des Saintes-Maries",
+      "originalTitle": "Barques de pêche sur la plage des Saintes-Maries",
       "datePainting": "Junho de 1888",
       "imagePainting": "PAINT_barcos_de_pesca_na_praia_de_saintes_maries.jpg",
       "style": "Pós-Impressionista",
@@ -1284,7 +1284,7 @@
     {
       "id": "62",
       "namePainting": "O Zuavo",
-      "originalTittle": "Le Zouave",
+      "originalTitle": "Le Zouave",
       "datePainting": "Junho de 1888",
       "imagePainting": "PAINT_o_zuavo.jpg",
       "style": "Pós-Impressionista",
@@ -1305,7 +1305,7 @@
     {
       "id": "63",
       "namePainting": "Quinta na Provença",
-      "originalTittle": "Mas en Provence",
+      "originalTitle": "Mas en Provence",
       "datePainting": "Junho de 1888",
       "imagePainting": "PAINT_quinta_na_provenca.jpg",
       "style": "Pós-Impressionista",
@@ -1326,7 +1326,7 @@
     {
       "id": "64",
       "namePainting": "Ala no Hospital em Arles",
-      "originalTittle": "Salle de l'hôpital à Arles",
+      "originalTitle": "Salle de l'hôpital à Arles",
       "datePainting": "Abril de 1889",
       "imagePainting": "PAINT_ala_no_hospital_em_arles.jpg",
       "style": "Pós-Impressionista",
@@ -1347,7 +1347,7 @@
     {
       "id": "65",
       "namePainting": "Chalés com Telhados de Palha em Cordeville",
-      "originalTittle": "Chaumes de Cordeville à Auvers-sur-Oise",
+      "originalTitle": "Chaumes de Cordeville à Auvers-sur-Oise",
       "datePainting": "Junho de 1890",
       "imagePainting": "PAINT_chales_com_telhados_de_palha.jpg",
       "style": "Pós-Impressionista",
@@ -1368,7 +1368,7 @@
     {
       "id": "66",
       "namePainting": "Camponesa Cavando",
-      "originalTittle": "Paysanne bêchant",
+      "originalTitle": "Paysanne bêchant",
       "datePainting": "Julho de 1885",
       "imagePainting": "PAINT_camponesa_cavando.jpg",
       "style": "Realismo",
@@ -1389,7 +1389,7 @@
     {
       "id": "67",
       "namePainting": "Natureza-morta: Vaso com Doze Girassóis",
-      "originalTittle": "Nature morte: Vase aux douze tournesols",
+      "originalTitle": "Nature morte: Vase aux douze tournesols",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_natureza_morta_vaso_com_doze_girassois.jpg",
       "style": "Pós-Impressionista",
@@ -1410,7 +1410,7 @@
     {
       "id": "68",
       "namePainting": "O Vinhedo Verde",
-      "originalTittle": "Le Vignoble vert",
+      "originalTitle": "Le Vignoble vert",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_o_vinhedo_verde.jpg",
       "style": "Pós-Impressionista",
@@ -1431,7 +1431,7 @@
     {
       "id": "69",
       "namePainting": "Lírios",
-      "originalTittle": "Lilas",
+      "originalTitle": "Lilas",
       "datePainting": "Maio de 1889",
       "imagePainting": "PAINT_lirios_roxos.jpg",
       "style": "Pós-Impressionista",
@@ -1452,7 +1452,7 @@
     {
       "id": "70",
       "namePainting": "O Pomar Rosa",
-      "originalTittle": "Le verger rose",
+      "originalTitle": "Le verger rose",
       "datePainting": "Abril de 1888",
       "imagePainting": "PAINT_o_pomar_rosa.jpg",
       "style": "Pós-Impressionista",
@@ -1473,7 +1473,7 @@
     {
       "id": "71",
       "namePainting": "Vista do Mar em Saintes-Maries",
-      "originalTittle": "Vue de la mer aux Saintes-Maries",
+      "originalTitle": "Vue de la mer aux Saintes-Maries",
       "datePainting": "Junho de 1888",
       "imagePainting": "PAINT_vista_do_mar_em_saintes_maries.jpg",
       "style": "Pós-Impressionista",
@@ -1494,7 +1494,7 @@
     {
       "id": "72",
       "namePainting": "A Italiana",
-      "originalTittle": "L'Italienne",
+      "originalTitle": "L'Italienne",
       "datePainting": "Novembro de 1887",
       "imagePainting": "PAINT_a_italiana.jpg",
       "style": "Pós-Impressionista",
@@ -1515,7 +1515,7 @@
     {
       "id": "73",
       "namePainting": "Boulevard de Clichy",
-      "originalTittle": "Boulevard de Clichy",
+      "originalTitle": "Boulevard de Clichy",
       "datePainting": "Março de 1887",
       "imagePainting": "PAINT_boulevard_de_clichy.jpg",
       "style": "Pós-Impressionista",
@@ -1536,7 +1536,7 @@
     {
       "id": "74",
       "namePainting": "Jardim Florido com Caminho",
-      "originalTittle": "Jardin fleuri avec sentier",
+      "originalTitle": "Jardin fleuri avec sentier",
       "datePainting": "Abril de 1888",
       "imagePainting": "PAINT_jardim_florado_com_caminho.jpg",
       "style": "Pós-Impressionista",
@@ -1557,7 +1557,7 @@
     {
       "id": "75",
       "namePainting": "A Ponte de Langlois com Lavadeiras",
-      "originalTittle": "Le Pont de Langlois avec des lavandières",
+      "originalTitle": "Le Pont de Langlois avec des lavandières",
       "datePainting": "Março de 1888",
       "imagePainting": "PAINT_a_ponte_de_langlois_com_lavadeiras.jpg",
       "style": "Pós-Impressionista",
@@ -1578,7 +1578,7 @@
     {
       "id": "76",
       "namePainting": "O Pomar em Flor",
-      "originalTittle": "Le Verger en fleur",
+      "originalTitle": "Le Verger en fleur",
       "datePainting": "Abril de 1888",
       "imagePainting": "PAINT_o_pomar_em_flor.jpg",
       "style": "Pós-Impressionista",
@@ -1599,7 +1599,7 @@
     {
       "id": "77",
       "namePainting": "A Colheita",
-      "originalTittle": "La Moisson",
+      "originalTitle": "La Moisson",
       "datePainting": "Junho de 1888",
       "imagePainting": "PAINT_a_colheita.jpg",
       "style": "Pós-Impressionista",
@@ -1620,7 +1620,7 @@
     {
       "id": "78",
       "namePainting": "O Velho Moinho",
-      "originalTittle": "Le Vieux Moulin",
+      "originalTitle": "Le Vieux Moulin",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_o_velho_moinho.jpg",
       "style": "Pós-Impressionista",
@@ -1641,7 +1641,7 @@
     {
       "id": "79",
       "namePainting": "O Jardim do Poeta (Jardim com Casal)",
-      "originalTittle": "Le Jardin du Poète (Jardin avec un couple)",
+      "originalTitle": "Le Jardin du Poète (Jardin avec un couple)",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_o_jardim_do_poeta_jardim_com_casal.jpg",
       "style": "Pós-Impressionista",
@@ -1662,7 +1662,7 @@
     {
       "id": "80",
       "namePainting": "O Passeio ao Luar",
-      "originalTittle": "La Promenade au clair de lune",
+      "originalTitle": "La Promenade au clair de lune",
       "datePainting": "Outubro de 1889",
       "imagePainting": "PAINT_o_passeio_ao_luar.jpg",
       "style": "Pós-Impressionista",
@@ -1683,7 +1683,7 @@
     {
       "id": "81",
       "namePainting": "Árvores no Jardim do Asilo",
-      "originalTittle": "Arbres dans le jardin de l'asile",
+      "originalTitle": "Arbres dans le jardin de l'asile",
       "datePainting": "Outubro de 1889",
       "imagePainting": "PAINT_arvores_no_jardim_do_asilo.jpg",
       "style": "Pós-Impressionista",
@@ -1704,7 +1704,7 @@
     {
       "id": "82",
       "namePainting": "Primeiros Passos (após Millet)",
-      "originalTittle": "Premiers Pas (d'après Millet)",
+      "originalTitle": "Premiers Pas (d'après Millet)",
       "datePainting": "Janeiro de 1890",
       "imagePainting": "PAINT_primeiros_passos_apos_millet.jpg",
       "style": "Pós-Impressionista",
@@ -1725,7 +1725,7 @@
     {
       "id": "83",
       "namePainting": "Mulheres Bretãs",
-      "originalTittle": "Les Bretonnes",
+      "originalTitle": "Les Bretonnes",
       "datePainting": "Novembro de 1888",
       "imagePainting": "PAINT_mulheres_bretas.jpg",
       "style": "Pós-Impressionista",
@@ -1746,7 +1746,7 @@
     {
       "id": "84",
       "namePainting": "Retrato de Patience Escalier",
-      "originalTittle": "Portrait de Patience Escalier",
+      "originalTitle": "Portrait de Patience Escalier",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_retrato_de_patience_escalier.jpg",
       "style": "Pós-Impressionista",
@@ -1767,7 +1767,7 @@
     {
       "id": "85",
       "namePainting": "O Bebedor de Absinto",
-      "originalTittle": "Le Buveur d'absinthe",
+      "originalTitle": "Le Buveur d'absinthe",
       "datePainting": "Março de 1887",
       "imagePainting": "PAINT_o_bebedor_de_absinto.jpg",
       "style": "Pós-Impressionista",
@@ -1788,7 +1788,7 @@
     {
       "id": "86",
       "namePainting": "A Vinha em Flor",
-      "originalTittle": "La Vigne en fleur",
+      "originalTitle": "La Vigne en fleur",
       "datePainting": "Abril de 1888",
       "imagePainting": "PAINT_a_vinha_em_flor.jpg",
       "style": "Pós-Impressionista",
@@ -1809,7 +1809,7 @@
     {
       "id": "87",
       "namePainting": "O Pescador",
-      "originalTittle": "Le Pêcheur",
+      "originalTitle": "Le Pêcheur",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_o_pescador.jpg",
       "style": "Pós-Impressionista",
@@ -1830,7 +1830,7 @@
     {
       "id": "88",
       "namePainting": "Os Descarregadores em Arles",
-      "originalTittle": "Les Déchargeurs à Arles",
+      "originalTitle": "Les Déchargeurs à Arles",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_os_descarregadores_em_arles.jpg",
       "style": "Pós-Impressionista",
@@ -1851,7 +1851,7 @@
     {
       "id": "89",
       "namePainting": "Natureza-morta com Arenques",
-      "originalTittle": "Nature morte aux harengs",
+      "originalTitle": "Nature morte aux harengs",
       "datePainting": "Janeiro de 1886",
       "imagePainting": "PAINT_natureza_morta_com_arenques.jpg",
       "style": "Realismo",
@@ -1872,7 +1872,7 @@
     {
       "id": "90",
       "namePainting": "O Restaurante de la Sirène em Asnières",
-      "originalTittle": "Le Restaurant de la Sirène à Asnières",
+      "originalTitle": "Le Restaurant de la Sirène à Asnières",
       "datePainting": "Maio de 1887",
       "imagePainting": "PAINT_o_restaurante_de_la_sirene_em_asnieres.jpg",
       "style": "Pós-Impressionista",
@@ -1893,7 +1893,7 @@
     {
       "id": "91",
       "namePainting": "Retrato do Carteiro Joseph Roulin",
-      "originalTittle": "Portrait du facteur Joseph Roulin",
+      "originalTitle": "Portrait du facteur Joseph Roulin",
       "datePainting": "Agosto de 1888",
       "imagePainting": "PAINT_retrato_do_carteiro_joseph_roulin.jpg",
       "style": "Pós-Impressionista",
@@ -1914,7 +1914,7 @@
     {
       "id": "92",
       "namePainting": "Paisagem com Neve",
-      "originalTittle": "Paysage enneigé",
+      "originalTitle": "Paysage enneigé",
       "datePainting": "Fevereiro de 1888",
       "imagePainting": "PAINT_paisagem_com_neve.jpg",
       "style": "Pós-Impressionista",
@@ -1935,7 +1935,7 @@
     {
       "id": "93",
       "namePainting": "O Jardim do Hospital em Arles",
-      "originalTittle": "Le Jardin de l'hôpital à Arles",
+      "originalTitle": "Le Jardin de l'hôpital à Arles",
       "datePainting": "Abril de 1889",
       "imagePainting": "PAINT_o_patio_do_hospital_em_arles.jpg",
       "style": "Pós-Impressionista",
@@ -1956,7 +1956,7 @@
     {
       "id": "94",
       "namePainting": "O Dr. Paul Gachet",
-      "originalTittle": "Le Dr Paul Gachet",
+      "originalTitle": "Le Dr Paul Gachet",
       "datePainting": "Junho de 1890",
       "imagePainting": "PAINT_o_dr_paul_gachet.jpg",
       "style": "Pós-Impressionista",
@@ -1977,7 +1977,7 @@
     {
       "id": "95",
       "namePainting": "O Poeta Eugène Boch",
-      "originalTittle": "Le Poète Eugène Boch",
+      "originalTitle": "Le Poète Eugène Boch",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_o_poeta_eugene_boch.jpg",
       "style": "Pós-Impressionista",
@@ -1998,7 +1998,7 @@
     {
       "id": "96",
       "namePainting": "Um Par de Sapatos",
-      "originalTittle": "Une paire de souliers",
+      "originalTitle": "Une paire de souliers",
       "datePainting": "Agosto de 1886",
       "imagePainting": "PAINT_um_par_de_sapatos.jpg",
       "style": "Pós-Impressionista",
@@ -2019,7 +2019,7 @@
     {
       "id": "97",
       "namePainting": "Interior de um Restaurante",
-      "originalTittle": "Intérieur d'un restaurant",
+      "originalTitle": "Intérieur d'un restaurant",
       "datePainting": "Verão de 1887",
       "imagePainting": "PAINT_interior_de_um_restaurante.jpg",
       "style": "Pós-Impressionista",
@@ -2040,7 +2040,7 @@
     {
       "id": "98",
       "namePainting": "Trigal sob Céu Trovejante",
-      "originalTittle": "Champ de blé sous un ciel d'orage",
+      "originalTitle": "Champ de blé sous un ciel d'orage",
       "datePainting": "Julho de 1890",
       "imagePainting": "PAINT_trigal_sob_ceu_trovejante.jpg",
       "style": "Pós-Impressionista",
@@ -2061,7 +2061,7 @@
     {
       "id": "99",
       "namePainting": "O Escolar (O Filho do Carteiro)",
-      "originalTittle": "L'Écolier (Le Fils du facteur)",
+      "originalTitle": "L'Écolier (Le Fils du facteur)",
       "datePainting": "Setembro de 1888",
       "imagePainting": "PAINT_o_escolar_o_filho_do_carteiro.jpg",
       "style": "Pós-Impressionista",
@@ -2082,7 +2082,7 @@
     {
       "id": "100",
       "namePainting": "Natureza-morta com Bíblia",
-      "originalTittle": "Stilleven met bijbel",
+      "originalTitle": "Stilleven met bijbel",
       "datePainting": "Outubro de 1885",
       "imagePainting": "PAINT_natureza_morta_com_biblia.jpg",
       "style": "Realismo",
