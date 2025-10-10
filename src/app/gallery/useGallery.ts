@@ -11,7 +11,7 @@ export function useGallery() {
 
   const hoverVariants = {
     initial: {
-      scale: 1.001,
+      scale: 1.025,
     },
     hover: {
       scale: 1.075,
