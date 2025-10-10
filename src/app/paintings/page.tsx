@@ -165,17 +165,19 @@ export default function PaintingsPage() {
         >
           <FocusContainer>
             {(hovered, setHovered) => (
-              <motion.ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 list-none">
+              <motion.ul
+                className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 list-none"
+                ref={containerRef}
+              >
                 {currentItems.map((photo, i) => (
                   <li key={photo.id}>
                     <FocusItem
                       index={i}
                       hovered={hovered}
                       setHovered={setHovered}
-                      className="rounded-lg pointer-events-none"
+                      className="rounded-lg pointer-events-none shadow-md"
                     >
                       <motion.article
-                        ref={containerRef}
                         aria-labelledby={`painting-${photo.id}`}
                         className="group relative block w-full border overflow-hidden rounded-lg bg-transparent transition-all pointer-events-auto"
                         initial="initial"
@@ -205,7 +207,7 @@ export default function PaintingsPage() {
                             <motion.span
                               id={`painting-${photo.id}`}
                               variants={titleVariants}
-                              className="px-10 text-center text-lg font-semibold text-zinc-50"
+                              className="px-12 text-center text-lg font-semibold text-zinc-50"
                             >
                               {photo.title}
                             </motion.span>
@@ -222,10 +224,11 @@ export default function PaintingsPage() {
                                 size="sm"
                                 asChild
                                 aria-label={`Ver detalhes de ${photo.title}`}
-                                className="mt-2 text-sm bg-background hover:bg-background/90 dark:bg-foreground dark:hover:bg-foreground/90 text-foreground dark:text-background"
+                                className="mt-2 text-sm bg-background hover:bg-background/90 dark:bg-foreground dark:hover:bg-foreground/90 text-foreground dark:text-background "
+                                onClick={(e) => e.stopPropagation()}
                               >
                                 <Link
-                                  href={``}
+                                  href={`/paintingsDetails/${photo.id}`}
                                   aria-label={`Ver detalhes de ${photo.title}`}
                                 >
                                   Ver detalhes
