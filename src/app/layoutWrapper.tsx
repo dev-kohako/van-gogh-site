@@ -1,6 +1,7 @@
 "use client";
 
 import { AppSidebar } from "@/components/AppSidebar";
+import { Toaster } from "@/components/ui/sonner";
 
 export function LayoutWrapper({ children }: { children: React.ReactNode }) {
   return (
@@ -9,6 +10,7 @@ export function LayoutWrapper({ children }: { children: React.ReactNode }) {
       <main className="flex-1 flex justify-center items-center w-full font-josefin">
         {children}
       </main>
+      <Toaster position="top-right" richColors />
     </div>
   );
 }
