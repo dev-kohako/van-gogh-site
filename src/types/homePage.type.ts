@@ -6,3 +6,7 @@ export interface SwiperPainting {
 export interface HomePageClientProps {
   paintings: SwiperPainting[];
 }
+
+export interface PaintingCarouselProps {
+  paintings: SwiperPainting[];
+}

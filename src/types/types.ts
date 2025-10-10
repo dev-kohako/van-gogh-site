@@ -23,19 +23,11 @@ export type Painting = {
   alt: string;
 };
 
-export interface SwiperPainting {
-  src: string;
-  alt: string;
-}
-
 export interface AppSidebarProps {
   open: boolean;
   setOpen: Dispatch<SetStateAction<boolean>>;
 }
 
-export interface PaintingCarouselProps {
-  paintings: SwiperPainting[];
-}
 
 export interface Links {
   label: string;
