@@ -7,7 +7,7 @@ import { v4 as uuidv4 } from "uuid";
 
 import "swiper/css";
 import "swiper/css/effect-coverflow";
-import type { PaintingCarouselProps } from "@/types/types";
+import { PaintingCarouselProps } from "@/types/homePage.type";
 
 export function PaintingCarousel({ paintings }: PaintingCarouselProps) {
   return (
