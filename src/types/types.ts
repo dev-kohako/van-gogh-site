@@ -1,27 +1,20 @@
 import type { Dispatch, SetStateAction } from "react";
 
-export type Painting = {
+export interface Painting {
   id: string;
   namePainting: string;
   originalTittle: string;
   datePainting: string;
   imagePainting: string;
   style: string;
-  period: string;
-  genre: string;
   materials: string;
-  physicalDimensions: string;
   local: string;
-  description: string;
   color1: string;
   color2: string;
   color3: string;
   color4: string;
   color5: string;
-  width: number;
-  height: number;
-  alt: string;
-};
+}
 
 export interface SwiperPainting {
   src: string;
